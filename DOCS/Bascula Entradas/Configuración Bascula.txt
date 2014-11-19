@@ -1,0 +1,19 @@
+Parámetros de la RS :
+
+Velocidad 9600 baudios
+Paridad None
+Bits 8
+Bits Stop 1
+
+Protocolo en modo continuo, transmite el peso constantemente.
+
+Un saludo,
+Eduardo  Gigante
+Levantina de Pesaje Laboratorio, S.L.
+Tel - 96.179.00.10   / 902.430.906
+Fax - 96.179.00.09
+email : egigante@levantinadepesaje.com
+
+ 
+
+ 

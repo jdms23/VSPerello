@@ -1,0 +1,19 @@
+PARAMETERS pClase, pLibreria, pAliasOrigen, pAliasDestino
+
+USE (FORCEEXT(pLibreria, "vcx")) IN 0 EXCLUSIVE
+
+LOCATE FOR ALLTRIM(objName) == ALLTRIM(LOWER(pClase))
+IF NOT FOUND() THEN 
+	USE 
+	MESSAGEBOX("No encuentro la clase en la libreria especificada.")
+	RETURN 
+ENDIF 
+
+lcRecNo = RECNO()
+lcCuantos = ALLTRIM(reserved2)
+
+replace properties WITH STRTRAN(properties,pAliasOrigen,pAliasDestino), ;
+	 methods WITH STRTRAN(methods,pAliasOrigen,pAliasDestino) ;
+	 NEXT &lcCuantos
+
+USE 

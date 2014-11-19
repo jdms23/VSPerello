@@ -1,0 +1,13 @@
+LOCAL SBD
+PUBLIC  RetValor
+
+SBD = CREATEOBJECT("SESION_BD")
+sbd.conectar()
+?sbd.cn
+sbd.execselect("EXEC vs_validar_usuarios 'DANI','123',?@RetValor")
+?"Valor     "
+?? RetValor
+sbd.desconectar()
+?sbd.cn
+
+RELEASE RetValor

@@ -1,0 +1,11 @@
+use vs_martinez
+go
+DROP PROCEDURE vs_generar_asiento_cobro_efecto
+go
+DROP PROCEDURE vs_generar_asiento_pago_efecto
+go
+
+alter table gen_tipos_mov_caja add codigo_concepto_negativo dm_codigos_c null
+go
+update gen_tipos_mov_caja set codigo_concepto_negativo=codigo_concepto_asociado
+go

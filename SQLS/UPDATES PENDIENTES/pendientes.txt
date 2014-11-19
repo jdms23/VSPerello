@@ -1,0 +1,3 @@
+- hacer trigger para que en emp_efectos se guarde la orden de pago de la que procede
+- idem para fusion de efectos
+- controlar en ambos casos que no se puedan meter 2 veces el mismo efecto

@@ -1,0 +1,102 @@
+CLEAR ALL 
+CLOSE TABLES ALL 
+
+PUBLIC CRLF, oApp, oSkin, pNull, oGestion, oFunciones, pCuantos
+
+LOCAL oInit 
+
+CRLF = CHR(13) + CHR(10)
+pNull = .NULL.
+pCuantos = 0
+
+_screen.Caption = "Alimentaria. Innovaciones Valencianas de Software, S.L."
+_screen.Visible = .F.
+_screen.WindowState = 2
+
+SET ESCAPE OFF 
+SET POINT TO ","
+SET SEPARATOR TO "."
+SET DELETED ON
+SET CENTURY ON 
+SET DATE TO DMY
+SET HOURS TO 24
+SET DEFAULT TO (CURDIR())
+SET NULL ON 
+SET NOTIFY OFF
+SET NOTIFY CURSOR OFF
+SET NULLDISPLAY TO ""
+SET SAFETY OFF 
+SET CONSOLE OFF 
+SET TALK OFF 
+SET STATUS OFF
+SET STATUS BAR OFF
+SET MESSAGE TO ""  
+SET MULTILOCKS ON 
+SET MEMOWIDTH TO 8192  &&&Al maximo
+SET PATH TO PROGS, CLASES, REPORTS, APPS
+SET CLASSLIB TO VSPERELLO,VSOLUTION,VSOLUTION_CONTA,gestcs,syscs,acceso_bd,permisos,controles_app,controles,gadgets,gdiplusx,foxcharts
+SET LIBRARY TO LOCFILE("vfpencryption71.fll")
+
+#INCLUDE APPS/vfp2c.h
+SET LIBRARY TO Locfile("vfp2c32.fll") ADDITIVE 
+INITVFP2C32(VFP2C_INIT_ALL)
+
+SET REFRESH TO 0,0
+SET PATH TO (SYS(2023)) ADDITIVE 
+
+DECLARE integer SetCursorPos in WIN32API integer, integer
+
+_vfp.StatusBar = "VSolutionCS"
+
+oApp = CREATEOBJECT("Aplicacion")
+IF ISNULL(oApp) OR TYPE("oApp") <> "O" THEN 
+	QUIT 
+ENDIF 
+
+_screen.Icon = oApp.Icono
+
+oGestion = CREATEOBJECT("Gestion")
+oSkin = CREATEOBJECT("AppGestorTemas")
+oFunciones = CREATEOBJECT("AppGestorFunciones")
+
+SYS(3050,1,oApp.tamaño_buffer)
+***SYS(2333,1)
+
+SET REPORTBEHAVIOR 90
+
+_REPORTOUTPUT = LOCFILE("REPORTOUTPUT.APP")
+IF oApp.UtilizarFoxyPreview THEN 
+	DO (LOCFILE("FOXYPREVIEWER.APP"))
+ELSE 
+	_REPORTPREVIEW = LOCFILE("REPORTPREVIEW.APP")
+ENDIF
+
+IF FILE(LOCFILE("system.app")) THEN 
+	DO LOCFILE("SYSTEM.APP") 
+ENDIF 
+
+IF FILE(LOCFILE("foxbarcode.app")) THEN 
+	DO LOCFILE("FOXBARCODE.APP")
+ENDIF 
+
+RAND(-1)
+
+oApp.Abrir_Formulario(oApp.form_login)
+
+READ EVENTS
+
+ON KEY 
+ON SHUTDOWN 
+
+SET SYSMENU TO DEFAULT 
+SET STATUS OFF
+SET STATUS BAR ON 
+
+CLEAR ALL 
+CLOSE TABLES ALL	
+CANCEL 
+
+IF _vfp.StartMode = 0 THEN 
+	_screen.Visible = .T.
+ENDIF 
+

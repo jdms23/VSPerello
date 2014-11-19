@@ -1,0 +1,31 @@
+SET TALK OFF
+
+DEFINE WINDOW wEnter FROM 7,10 to 13,70 PANEL
+
+ACTIVATE WINDOW wEnter
+
+@ 1,3 SAY 'Customer: '   GET gcCustomer  DEFAULT SPACE(40)
+
+@ 3,3 SAY 'Address:  '   GET gcAddress  DEFAULT SPACE(40)
+
+WAIT WINDOW 'Waiting for input' NOWAIT
+
+IF NOT CHRSAW(5)   
+
+   DEACTIVATE WINDOW wEnter
+
+   CLEAR GETS
+
+ELSE
+
+   READ
+
+   DEACTIVATE WINDOW wEnter
+
+ENDIF
+
+RELEASE WINDOW wEnter
+
+WAIT 
+
+CLEAR
