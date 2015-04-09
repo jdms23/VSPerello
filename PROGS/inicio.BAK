@@ -1,7 +1,7 @@
 CLEAR ALL 
 CLOSE TABLES ALL 
 
-PUBLIC CRLF, oApp, oSkin, pNull, oGestion, oFunciones, pCuantos
+PUBLIC CRLF, oApp, oSkin, pNull, oGestion, oFunciones, pCuantos, oReportPreview
 
 LOCAL oInit 
 
@@ -32,7 +32,7 @@ SET STATUS OFF
 SET STATUS BAR OFF
 SET MESSAGE TO ""  
 SET MULTILOCKS ON 
-SET MEMOWIDTH TO 8192
+SET MEMOWIDTH TO 8192  &&&Al maximo
 SET PATH TO PROGS, CLASES, REPORTS, APPS
 SET CLASSLIB TO VSPERELLO,VSOLUTION,VSOLUTION_CONTA,gestcs,syscs,acceso_bd,permisos,controles_app,controles,gadgets,gdiplusx,foxcharts
 SET LIBRARY TO LOCFILE("vfpencryption71.fll")
@@ -69,6 +69,8 @@ IF oApp.UtilizarFoxyPreview THEN
 	DO (LOCFILE("FOXYPREVIEWER.APP"))
 ELSE 
 	_REPORTPREVIEW = LOCFILE("REPORTPREVIEW.APP")
+	oReportPreview = .NULL.
+	DO (_REPORTPREVIEW) WITH oReportPreview
 ENDIF
 
 IF FILE(LOCFILE("system.app")) THEN 

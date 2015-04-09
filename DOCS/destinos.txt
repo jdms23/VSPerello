@@ -1,0 +1,167 @@
+1           ;CENTRO-MADRID-ES CARREFOUR                                                 
+2           ;SUR-SUR -ES CARREFOUR                                                      
+3           ;NORTE-NORTE -ES CARREFOUR                                                  
+4           ;CATALUÑA-CATALUÑA- ES CARREFOUR                                            
+5           ;LEVANTE-LEVANTE                                                            
+6           ;POBLA DE VALLBONA                                                          
+7           ;HYPER LOG. FLEURY                                                          
+8           ;ALDI                                                                       
+9           ;SANTANDER                                                                  
+10          ;BARCELONA                                                                  
+11          ;Nº pedido 4500045999                                                       
+12          ;53                                                                         
+13          ;CENTRAL RIBARROJA                                                          
+14          ;CENTRAL PRATS FRUTA                                                        
+15          ;RUNGIS                                                                     
+16          ;PARIS                                                                      
+17          ;LONDON                                                                     
+18          ;DEN HAAG                                                                   
+19          ;ZURICH                                                                     
+20          ;OLTEN                                                                      
+21          ;LYON                                                                       
+22          ;PAVISA                                                                     
+23          ;POELDIJK                                                                   
+24          ;EVESHAM                                                                    
+25          ;LOON FUNG                                                                  
+26          ;AMSTERDAM                                                                  
+27          ;MULHOUSE                                                                   
+28          ;MADRID                                                                     
+29          ;SPITEFIELD                                                                 
+30          ;NEW COVENT GARDEN                                                          
+31          ;RHIJSSELM                                                                  
+32          ;ROCA                                                                       
+33          ;KOLN                                                                       
+34          ;STRASSBOURG                                                                
+35          ;FRANKFURT                                                                  
+36          ;WISBECH                                                                    
+37          ;AMSTELVEEN                                                                 
+38          ;VENLO                                                                      
+41          ;DREUMEL                                                                    
+42          ;SEVILLA                                                                    
+43          ;STUTGART                                                                   
+44          ;DUSSELDORF                                                                 
+45          ;OLDENBURGER                                                                
+46          ;FLORA LOGISTIC                                                             
+47          ;FARNBOROUGH                                                                
+48          ;PETER HENDRICKS                                                            
+49          ;PRAHA                                                                      
+50          ;BARENDRECH                                                                 
+51          ;ODENSE                                                                     
+52          ;GOTHEMBURG                                                                 
+53          ;MANCHESTER                                                                 
+54          ;HAMBURG                                                                    
+55          ;BERLIN                                                                     
+56          ;CASADEMON                                                                  
+57          ;FELIPE REY                                                                 
+58          ;ALMA                                                                       
+59          ;FRIGOPOOL                                                                  
+60          ;PUYOL VERDAGUER                                                            
+61          ;FIRENZE                                                                    
+62          ;PETER HENDRICKS-OLDENBURGER                                                
+63          ;PETER HENDRICKS- FLORA LOGISTICS                                           
+64          ;RUNGIS- BONIFACCI                                                          
+65          ;ALDERSHOT                                                                  
+66          ;ESCHWEILER                                                                 
+67          ;HOOFDDORP                                                                  
+70          ;OXFORD                                                                     
+71          ;PERPIGNAN                                                                  
+72          ;PETER HENDRICKS-DAILY FRESH                                                
+73          ;DAYLY FRESH                                                                
+74          ;MILANO                                                                     
+75          ;IJSSELMUIDEN                                                               
+76          ;MACHELEN                                                                   
+77          ;mercamadrid                                                                
+78          ;LEVANTE-LEVANTE-ES-CARREFOUR                                               
+79          ;LUGO-LUGO-ES CARREFOUR                                                     
+80          ;SUR-CANARIAS-ES CARREFOUR                                                  
+81          ;ZARAGOZA                                                                   
+82          ;PORTUGAL                                                                   
+83          ; BRYGGAVAGEN 119, 17831 EKERO                                              
+84          ;Malaga                                                                     
+85          ;mercabarna                                                                 
+86          ;EURORUNGIS                                                                 
+87          ;SPALDING                                                                   
+88          ;SAN JAVIER-MURCIA                                                          
+89          ;LEIPZIG                                                                    
+90          ;NINO FRUIT                                                                 
+91          ;BLANCHER PERPIGNAN                                                         
+92          ;SATAR                                                                      
+93          ;SAFTER QUAI-2 PERPIGNAN                                                    
+94          ;                                                                           
+95          ;CAMIFLOR                                                                   
+96          ;MERISOL 2                                                                  
+97          ;LACOUR RENE                                                                
+98          ;LACOUR RENE                                                                
+99          ;PENADES                                                                    
+100         ;HYPER AIX EN PROVENCE                                                      
+101         ;HYPER LYON                                                                 
+102         ;HYPER DAMARTIN                                                             
+103         ;HYPER BEZIERS                                                              
+104         ;HYPER BORDEAUX                                                             
+105         ;HYPER BAINS DE BRETAGNE                                                    
+106         ;HYPER LENS                                                                 
+107         ;ASIA MARKET 885774 UNTERFORHRING)                                          
+108         ;EXO 3                                                                      
+109         ;UNTERFOHRING 885774 ASIA MARKET                                            
+110         ;GUANTER                                                                    
+111         ;ASIA MARKT-LERCHEN STRASSE 66                                              
+112         ;ALZIRA                                                                     
+113         ;SAINT CHARLES PRIMEURS S.A.S.                                              
+114         ;FESA                                                                       
+115         ;BLAMPIN-SOLOR SAINT CHARLES                                                
+116         ;41564 KAARST                                                               
+117         ;41564 KAARST                                                               
+118         ;POLONIA                                                                    
+119         ;RIBARROJA                                                                  
+120         ;VIENA-AUSTRIA                                                              
+121         ;AUSTRIA                                                                    
+122         ;SPRINGHEAD ROAD                                                            
+123         ;ONDARA                                                                     
+124         ;DENIA                                                                      
+125         ;CULLERA                                                                    
+126         ;CARCAIXENT                                                                 
+127         ;BURJASSOT                                                                  
+128         ;XATIVA                                                                     
+129         ;MERCAMADRID NAVE D PTO. 31-33                                              
+130         ;TAVERNES DE LA VALLDIGNA                                                   
+131         ;MERCAMADRID NAVE C PTO. 17-19                                              
+132         ;MERCAMADRID, PARCELA G1                                                    
+133         ;DELGO                                                                      
+134         ;A CORUÑA                                                                   
+135         ;VALENCIA                                                                   
+136         ;ALAVA                                                                      
+137         ;MALAGA                                                                     
+138         ;SPALDING                                                                   
+139         ;ROTTERDAM                                                                  
+140         ;THE HAGUE                                                                  
+141         ;PETER HENDRIKS-THE HAGUE                                                   
+142         ;DANIKEN                                                                    
+143         ;METRO FRANCIA                                                              
+144         ;SORGUES                                                                    
+145         ;NANTES                                                                     
+146         ;CORBAS                                                                     
+147         ;ALGEMESI                                                                   
+148         ;SAGUNTO                                                                    
+149         ;EL SALER                                                                   
+150         ;CAMPANAR                                                                   
+151         ;PATERNA                                                                    
+1000        ;L'ELIANA                                                                   
+1001        ;ALFAFAR                                                                    
+1002        ;SALER                                                                      
+1003        ;GANDIA                                                                     
+1004        ;MASALFASAR                                                                 
+1005        ;GRAN TURIA                                                                 
+1006        ;ALZIRA                                                                     
+1007        ;PEDREGUER                                                                  
+1008        ;MERCAVALENCIA PTOS. 32-34                                                  
+1009        ;Nº PEDIDO 4500043321                                                       
+1010        ;ALIAGUILLA                                                                 
+1011        ;urpinas                                                                    
+1012        ;EL PRAT                                                                    
+1013        ;MURCIA                                                                     
+1014        ;FUENLABRADA                                                                
+1015        ;MAASDIJK-VDC                                                               
+1016        ;BRNO-CHRLICE                                                               
+1017        ;KAARST                                                                     
+1018        ;SEEVETAL-OHLENDORF                                                         
+            ;

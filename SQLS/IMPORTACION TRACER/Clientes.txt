@@ -1,0 +1,1283 @@
+3;SANLUCAR FRUITS, S.L.;688;0;0;0;0
+4;MARKANT ESPAÑA, S.A.;402;0;0;18;0
+5;SOCOMO;401;0;0;18;0
+6;KASHFLOW LTD -T/A QUALITY SUPERSTORE              ;;0;0;0;0
+7;CAMUS;294;0;0;0;0
+8;DIA;403;0;0;0;0
+9;ASIA EURO IMPORT EXPORT GMBH                      ;;0;66;0;7
+10;CONSUM;171;0;0;18;0
+11;VEGETABLE EXPORT S. L.;1;15;0;0;0
+12;OCATA LTD.;2;0;47;0;2
+13;ASIAN DIM SUM;3;48;50;11;2
+14;TANG FRERES;4;16;16;11;12
+15;PARIS STORE;5;16;16;11;12
+16;KOLLA Gmbh;6;1015;1017;13;2
+17;SeeWoo FOODS LIMITED;7;0;17;0;2
+18;CHEUNG KONG;8;48;18;11;2
+19;YUANDONG GMBH;9;0;44;0;4
+20;MERVIN GO KG;10;0;120;0;0
+21;ASIA GROUP;11;16;16;11;12
+22;EVEREST CASH AND CARRY LTD                        ;12;0;47;0;2
+23;STRIMPORT AG;13;0;19;0;3
+24;PPO SERVICES AG;14;0;142;0;4
+25;CHESHIRE GOLD LTD t/a WING FAT SUPERMARKET;15;0;53;0;2
+26;3D DONA;16;57;16;11;12
+27;PROSOL SAS             ;17;0;21;0;5
+28;VALENCIA TRADING OFFICE S.L.;18;0;0;0;24
+29;EUROPA WHOLESALE;19;0;47;0;2
+30;FA SUNDA;20;141;140;11;2
+31;ASIALY;21;57;16;11;12
+32;GREEN HOUSE;22;63;46;11;2
+33;LUNG WAH CHONG;23;0;70;0;2
+34;BERH;24;1018;1018;0;0
+35;WOL;25;0;44;0;4
+36;KOLLA VALENCIA;26;1015;1015;11;2
+37;CENTERPACK-TAE                               ;27;85;85;10;10
+38;HOPWELL LIMITED;28;0;24;0;2
+41;PARIS LIDAR;30;57;16;11;12
+42;WITKAMP IMPORT BV-POELDIJK;31;48;23;11;2
+43;P.A.J. KUIJPER;32;48;26;11;2
+44;N.J. WITKAMP B.V.;33;23;23;13;2
+45;MONDIAL IMPORT - EXPORT;34;57;16;11;12
+46;BLAMPIN                                  ;35;0;115;0;0
+47;TAI MAO FOOD, S.L.;37;28;0;0;0
+48;YUEN TONG SUPERMERCADOS S.L.                      ;38;0;0;0;0
+49;CHAN'S PRODUCE LIMITED;39;0;29;0;2
+50;VARIOS;40;0;0;0;0
+51;PRODISCO                ;41;0;92;0;6
+52;VAN RIJN TRADING B.V.;42;38;38;11;2
+53;CODISPA SAS;43;0;90;0;0
+54;MITROFRESH B.V.;44;48;23;11;2
+55;MINH FOOD & NOON FOOD;47;0;89;0;4
+56;DGM GROWERS LTD;46;0;87;0;2
+58;RODANTO LTD;48;0;122;0;1
+59;ORIENTAL FOOD;49;44;44;4;4
+60;MI WUN LU CHENG, S.L.;50;0;0;0;0
+61;B.TRES DEL SUR DE EUROPA S.L.              ;51;0;61;0;4
+62;HORTONATURE MARKETING (DAVID PEREZ);52;0;89;0;7
+63;KIM GUAN CHOONG;53;30;0;0;0
+64;ALMA SRL.;54;22;0;0;0
+65;VICENTE GINESTAR FRUITS S.L.;55;0;0;0;0
+66;SUPER MARCHE D'ASIE;56;57;16;11;12
+67;ASIA EXPRESS FOOD;57;48;75;11;2
+70;VINHLOI;59;0;54;0;4
+71;VINHLOI;60;0;54;0;4
+72;VIET THAI EXOTICS GMBH;61;0;33;0;4
+73;HIEP THANH S.A.R.L.;62;0;27;0;6
+74;GREENSHOOTERS;63;0;1016;0;0
+75;CRUCHAUDET GRANDJEAN;64;16;16;11;12
+76;THUNDERBURG;66;48;18;11;2
+77;BOSS PLANT IMPORT EXPORT;67;48;18;11;2
+78;SUPER ZONG HUA S.L.;68;0;0;0;0
+79;LACOUR RENE;69;97;98;0;0
+80;IDEAL FRAICHEUR S.L.U.;70;0;91;0;0
+82;THAILONG S.A.R.L.;72;0;34;0;6
+86;HUANG QINGKUI;76;0;61;0;14
+87;GEBR DAHLER AG;81;0;0;0;0
+89;FRUTAS & VERDURAS CHINAS-;83;0;0;0;0
+90;GARTNEREI WONG;84;0;35;0;4
+95;CMR;89;0;85;0;10
+96;ROKEWOOD LTD      ;90;0;36;0;2
+97;HERMAN KUIJPER BV;91;48;37;11;2
+98;LANGFRUIT B.V.;92;48;38;11;2
+101;ALLAN ANDERSON;95;0;17;0;2
+103;ORIENTAL DUIVEN;97;0;0;0;0
+104;VINAS SAS;98;0;16;0;12
+106;ORIENTAL EMPORIUM;100;72;76;11;2
+108;UNIONTRADE STRL                                   ;102;0;74;0;4
+111;SUPERMERCADOS TONG YA;105;0;0;0;0
+116;HO. TRADING GMBH                                  ;123;44;44;0;4
+117;AGRUMEXO SARL                                     ;124;16;16;11;12
+121;HUNG FAT;128;62;45;11;2
+122;NUOVAFRUTTA S.R.L.                                ;136;0;74;0;4
+123;ASIAN CROP;134;48;38;11;2
+124;WENG-SE ENTREPOT;132;108;108;11;12
+127;KAM YUAN TRADING                                  ;79;0;69;0;2
+129;MERCADO ABRANTES;140;28;28;18;18
+134;;673;0;0;0;0
+135;VINLHOI;59B;0;55;0;4
+136;wan tong;141;77;77;10;10
+137;nuovafrutta;136b;0;71;0;6
+138;HOPWELL LOON FUNG;28B;0;0;0;2
+139;IMPORT EXPORT XINLAN S.L.                         ;;0;0;0;0
+140;ALBERT I TEBA S.L.                 ;606;0;0;0;0
+141;ORIGINAL FRUIT S.L.                               ;;0;0;0;0
+142;PESCADOS Y MARISCOS SOUSA S.L.                    ;;0;0;0;0
+144;JOSE CABELLO MARTIN                  ;;0;0;0;0
+145;C.O.A.G.A.L. C.V.                                 ;;0;0;0;0
+146;FTAS. HERMANOS BERENGUER S.L.                     ;;0;0;0;0
+147;BIOCENTURY S.L.                                   ;;0;0;0;0
+148;NARANJAS BOLLO S.L.                    ;;0;0;0;0
+149;SANCHEZ ECHAVE FCO.;;0;0;0;0
+150;AMIFRUIT S.A.L.                                   ;;0;0;0;0
+151;DIEZ DUET VICENTE                                 ;;0;0;0;0
+152;ECORIBERA S.L.                                    ;;0;0;0;0
+153;ALQUIMIA FRUITS, S.L.;623;0;0;0;0
+154;FRUMASA S.L;;0;0;0;0
+155;MADRIDFRUIT S.A.  ;;0;0;0;0
+156;YOBADA S.L.;;0;0;0;0
+157;AUÑON ESLAVA AMADEO              ;;0;0;0;0
+158;FRUTAS REBOLLO S.A.;681;0;0;0;0
+159;SAT FRUTAS PELLICER;;0;0;0;0
+160;CEQA-UPV   ;;0;0;0;0
+161;VARIOS SIN RECARGO EQUI.;;0;0;0;0
+162;XIANG ZHOU (SUPERMERCADO CAI LAN ZI)              ;598;0;0;0;0
+163;S O C O M O  S.A.                                 ;;0;0;0;0
+164;HNOS.GILABERT C.B.            ;;0;0;0;0
+165;FEDERICO RAMOS CENTENO           ;390;0;0;0;0
+166;TRAGSA                                            ;;0;0;0;0
+167;FENOLLOSA GARCIA AGUSTIN;;0;0;0;0
+168;JOVER Y JURIO SDAD.REGULAR        ;;0;0;0;0
+169;RAFAEL ROSELLO RIDAURA          ;;0;0;0;0
+170;PONS PENADES M.CARMEN          ;371;0;0;0;0
+171;CREDIT.VCIA.C.R.COOP.CDTO.VAL.                    ;;0;0;0;0
+172;HNOS.TORMO E HIJOS S.L.;321;0;0;0;0
+173;FRUPALE S.L.;;0;0;0;0
+174;COLLADO BELTRAN CARMEN   ;;0;0;0;0
+175;COMODISA;;0;0;0;0
+176;FTAS.CAMUS S.l.        ;;0;0;0;0
+177;PATATAS RICARDO BRIA S.L.;;0;0;0;0
+178;CABELLO MARTIN MIGUEL;603;0;0;0;0
+179;PONS SANCHEZ JUAN    ;;0;0;0;0
+180;FTAS.GAMBIN Y GAMBIN C.B.   ;;0;0;0;0
+181;LUMINITA EMILIA LAHILLA ESCUERT;605;0;0;0;0
+182;PATATAS MINGUEZ C.B. ;;0;0;0;0
+183;RUBIO Y VENDRELL S.L.     ;;0;0;0;0
+184;FERNANDEZ LUCENA S.L.   ;;0;0;0;0
+185;PALOP BELDA TOMAS;;0;0;0;0
+186;NATAVI S.L.;;0;0;0;0
+187;MARIA AMPARO GIMENEZ JUAN                         ;;0;0;0;0
+188;FTAS. MENDEZ Y CIA.S.A.                           ;;0;0;0;0
+189;SUPERMERCADOS DE  ZHENH YUAN                      ;;0;0;0;0
+190;MARIA DOLORES SEGURA PEREZ                        ;;0;0;0;0
+191;DUSE ALIMENTACION S.L.                            ;;0;0;0;0
+192;PLATANOS ALEJANDRO MORA E HIJOS S.L.              ;655;0;0;0;0
+193;BIFRUTA S.L.                                      ;;0;0;0;0
+194;CONFRUVAL S.L.                                    ;;0;0;0;0
+195;COLLADO BELTRAN AMPARO                            ;;0;0;0;0
+197;J.GAMBIN S.L.                                     ;;0;0;0;0
+198;J.G.CARRION S.A.;125;0;0;0;0
+200;FRUITES I VERDURES BETORET RODA SL.;615;0;0;0;0
+201;FTAS.S.IBORRA S.L.                                ;;0;0;0;0
+202;GESTION DE VERDURAS DE VANGUARDIA SL              ;;0;0;0;0
+203;HNOS.GOMEZ CANO S.L.                              ;;0;0;0;0
+204;MINGUEZ VALERA MARCELINO                          ;;0;0;0;0
+205;TELENARANJA NATURAL S.L.                          ;;0;0;0;0
+206;PATATAS PANADES ,S.L.L.;658;0;0;0;0
+207;PATATAS BADENAS S.L.                              ;;0;0;0;0
+208;CRUZ PICAZO ZAMORA                                ;;0;0;0;0
+209;LUIS EMILIO Y HERMINIO LOPEZ CB;647;0;0;0;0
+210;RTE.CASA CHIVA C.B.Hs.Hdez.Mol                    ;645;0;0;0;0
+211;ARNAU SIMEON , FERNANDO VTE                       ;;0;0;0;0
+212;F.MERCADER OLOT S.L.;642;0;0;0;0
+213;J.BERNARDO MOLLA GALAN                            ;;0;0;0;0
+214;MANRESA GAMBIN HERMANOS S.L.                      ;;0;0;0;0
+215;FRUTAS FRANCH S.A.                                ;;0;0;0;0
+216;RUBIO BERNABEU MARIANO                            ;634;0;0;0;0
+217;COOP.V.U.PROTEC.PERELLO-TIENDA-                   ;;0;0;0;0
+219;CUQUERELLA RUIZ FAUSTINO                          ;;0;0;0;0
+220;FRUTAS Y VERDURAS MAS-OLID SL                     ;;0;0;0;0
+222;SALVADOR BRIA BARBARROJA                          ;;0;0;0;0
+223;HERMINIO BRIA BARBARROJA                          ;609;0;0;0;0
+224;FTAS.VILLAROYA S.L.                               ;;0;0;0;0
+225;MASCARELL GARCIA GRACIANO                         ;612;0;0;0;0
+226;HURTADO CATALA ENRIQUE                            ;;0;0;0;0
+227;FRUTAS LOS HERMANOS 786,SL                        ;;0;0;0;0
+228;CENTRO DE ESTUDIOS RURAL. Y AGRI.INTER.CERAI      ;;0;0;0;0
+229;BAÑULS CLIMENT VICTOR                             ;;0;0;0;0
+230;MIÑANA MONTANER S.L.;630;0;0;0;0
+231;FTAS.BORAYA S.L.                                  ;;0;0;0;0
+232;GRUPO AGRICOLA GRUPAC S.A.                        ;;0;0;0;0
+233;SENSALONI MONZO JOSE                              ;;0;0;0;0
+234;FTAS.Y VERDURAS CUNINO S.L.;689;0;0;0;0
+235;S.A.T. ALBIR 13 CV                                ;;0;0;0;0
+236;MARTINEZ GARCIA ANGELA                            ;;0;0;0;0
+237;CONSERV.HIJOS DE M.SANCHEZ BASARTE S.A            ;;0;0;0;0
+238;VERDURAS BOMBA S.L.                               ;;0;0;0;0
+239;LAUREANO CANO VILA                                ;;0;0;0;0
+242;JOSE BARINGO S.L.;624;0;0;0;0
+243;FRUTAS Y VER."EL LABRADOR " CB                    ;;0;0;0;0
+244;PRATS FRUITS S.L.                                 ;;0;0;0;0
+245;ALBENTFRUIT S.L.                                  ;;0;0;0;0
+246;CARFRUIT S.L.                                     ;;0;0;0;0
+247;AUDRIUS MARCINKEVICIUS                            ;;0;0;0;0
+248;COARVAL COOP.V                                    ;;0;0;0;0
+249;EUSEBI GUIRAL S.A.                                ;;0;0;0;0
+250;ANTONIO CABELLO MARTIN                            ;;0;0;0;0
+251;DISTR.INTER.DE ALIM.S.A.(DIASA)                   ;;0;0;0;0
+252;CIPRIAN VASILE PARAU                              ;;0;0;0;0
+253;DELTABARNA S.A.                                   ;;0;0;0;0
+254;FRUBICORTELL S.L.L.;;0;0;0;0
+255;ENRIQUE CODINA ;650;0;0;0;0
+256;PLA RUBIO VICTOR                                  ;;0;0;0;0
+257;MARTINEZ RODRIGUEZ JUAN BTA.                      ;;0;0;0;0
+258;ALDIS ZALAKMENS                                   ;;0;0;0;0
+259;HORFRES S.L.U.                                    ;;0;0;0;0
+260;BARBER CABALLERO S.L.                             ;;0;0;0;0
+261;INICIATIVAS COMERCIALES DADYMA SL                 ;;0;0;0;0
+262;SAT 9895 AGRICOLA PERICHAN                        ;657;0;0;0;0
+264;WAI KIT ASIAN FRESH CENTER                        ;;0;0;0;0
+278;P P J IMPORT EXPORT                               ;;0;0;0;0
+279;LIN CHENG CHENG                                   ;;0;0;0;0
+281;TENGELMANN FRUTA ESPAÑA S.L.                      ;;0;0;0;0
+284;EUROPA WHOLESALE LTD                              ;;0;0;0;0
+299;SERVICOM S.L.                                     ;;0;0;0;0
+303;COMERCIO DOMINIO DEL ARENAL SL                    ;;0;0;0;0
+304;ALMA TRANSITAIRES S.A.                            ;;0;0;0;0
+309;EXO CASH & CARRY                                  ;;0;0;0;0
+311;KUAN KEE VEGETABLE WHOLESALE LTD                  ;;0;0;0;0
+314;CENTRE EXOTIC PRODUCTS C.E.P.                     ;;0;0;0;0
+319;PUJOL-VERDAGUER SA                                ;;0;0;0;0
+324;PRIMAFEL                                 ;71;0;71;0;11
+326;HAI SHENG ALIMENTACION S.L.                       ;73;0;0;0;0
+327;SUPER ASIE TIEN HUNG                              ;74;0;0;0;0
+328;CHUN YING YE                                      ;75;0;0;0;0
+330;SALVADOR DEL CERRO S.L.     ;77;0;0;0;0
+331;WANGBIN ZHOU                                      ;78;0;0;0;0
+333;HERBEX PONIENTE S.L.U.                            ;;0;0;0;0
+334;Gebr.Dahler AG                                    ;;0;0;0;0
+335;HORFRUSE S.L.                                     ;82;0;0;0;0
+336;FRUTAS & VERDURAS CHINA-ESPAÑA S.L.               ;;0;0;0;0
+338;SUPER FRUTA Y VERDURA S.L.;86;0;0;0;0
+339;GARLETTI S.N.C.di Garletti Giovanni & C           ;87;0;0;0;0
+340;CHINA FOODSTORE                                   ;88;0;0;0;0
+341;JIULONG S.L.                                      ;85;0;0;0;0
+342;FRUITS CMR SA                                     ;;0;0;0;0
+346;LIJUN ZHU                                         ;93;0;0;0;0
+347;LIU HAIJIAN                                       ;94;0;0;0;0
+349;SHENG ZONG XIA                                    ;96;0;0;0;0
+350;ORIENTAL GROUP DUIVEN B.V.                        ;;0;0;0;0
+352;AM PRODUCCIONES S.L.                              ;;0;0;0;0
+353;CODISA S.L.                                       ;304;0;0;0;0
+354;ALLEURAS INDUSTRIES S.A.                          ;99;0;0;0;0
+355;ADELAIDE STORES LTD.T/A ORIENT.EMPORIUM           ;;0;0;0;0
+357;ARTURO SOTO S.A.;320;0;0;0;0
+358;GUFRESCO S.L.               ;659;0;0;0;0
+359;CITRICOS CABAÑES S.L.                             ;;0;0;0;0
+360;DAFSA;691;0;0;0;0
+361;MIGUEL PASTOR LOPEZ                               ;;0;0;0;0
+362;AUGAN;252;0;0;0;0
+363;BLAS MUÑOZ S.L.                                   ;;0;0;0;0
+364;FTAS.BOTANCH S.A.                                 ;;0;0;0;0
+365;MATOSES FERRI VICENTA                             ;;0;0;0;0
+366;CODES PEDROS ANA CELIA                            ;;0;0;0;0
+368;COLLADO FERRER MATILDE                            ;;0;0;0;0
+369;LERMA BELTRAN JOSE GABRIEL                        ;;0;0;0;0
+370;MARTORELL TORRENT CARMEN                          ;;0;0;0;0
+371;LOPEZ GONZALEZ ISABEL                             ;;0;0;0;0
+372;TORRENT AGUADO BIENVENIDA                         ;;0;0;0;0
+373;RAMIREZ AMORAGAS FERNANDO                         ;;0;0;0;0
+374;RADIO CLUB 27-EL PERELLO                          ;;0;0;0;0
+375;MIÑANA VENDRELL MARIA                             ;;0;0;0;0
+376;JUAN VERDU JOSE                                   ;;0;0;0;0
+377;GIL MIRALLES LUIS                                 ;;0;0;0;0
+378;GARCIA COLLADO M.CARMEN                           ;;0;0;0;0
+379;FERRI FONS FRANCISCO                              ;;0;0;0;0
+380;FERRETERIA EL CARMEN C.B.                         ;;0;0;0;0
+381;PASTOR COLLADO MIGUEL ANGEL                       ;;0;0;0;0
+382;ASOC.HOSTELERA DE EL PERELLO                      ;;0;0;0;0
+383;CHANQUES VENDRELL ROSANA                          ;;0;0;0;0
+384;RANCHAL SOLER JUAN ANTONIO                        ;;0;0;0;0
+385;LOPEZ ALEGRE VICENTA                              ;;0;0;0;0
+386;VALER0 RAMOS ALEJANDRO BENITO                     ;;0;0;0;0
+387;RUIZ TORREMOCHA M.MONTSERRAT                      ;;0;0;0;0
+388;ARANDA RODA MARIA SALES                           ;;0;0;0;0
+389;COLLADO BELTRAN CARMEN                            ;;0;0;0;0
+390;ORTI MENDEZ GEMMA                                 ;;0;0;0;0
+391;VENDRELL LOPEZ CONCEPCION                         ;;0;0;0;0
+392;CANDEL SANCHIS MONICA                             ;;0;0;0;0
+393;PUCHADES AYUS0 MARIBEL                            ;;0;0;0;0
+394;ORTS CORTINA CARMEN                               ;;0;0;0;0
+395;GIL GABARDA CARMEN                                ;;0;0;0;0
+396;MARCO BALLESTER M.DOLORES                         ;;0;0;0;0
+397;FUENTES EXPOSITO PALOMA                           ;;0;0;0;0
+398;MARI MARCOS JOSE                                  ;;0;0;0;0
+399;GONZALBO MONTAGUD ELODIA                          ;;0;0;0;0
+400;SUMI.PARA LA CONSTRUC.EL PERELLO SL               ;;0;0;0;0
+401;IBAÑEZ TARIN AMALIA                               ;;0;0;0;0
+402;ASOC.ANGULERA GOLA PERELLO                        ;;0;0;0;0
+403;PONS PASTOR M.ANGELES                             ;;0;0;0;0
+404;FOS MONTAJES E INSTALACIONES S.L.                 ;;0;0;0;0
+405;SAVALLS MIRALLES CESAR EMILIO                     ;;0;0;0;0
+406;PONS COLLADO JUAN RAMON                           ;;0;0;0;0
+407;AGUADO PEDROS CARMEN                              ;;0;0;0;0
+408;NICOLA MARCO SONIA                                ;;0;0;0;0
+409;AGUADO MORA MARIA DOLORES                         ;;0;0;0;0
+410;GARCIA LOBATO ROCIO                               ;;0;0;0;0
+411;VARIOS                                            ;;0;0;0;0
+412;COOP.V.UNION PROTECTORA EL PERELLO                ;;0;0;0;0
+413;FALLA TRO I FLAMA                                 ;;0;0;0;0
+414;SEC.CULTIVOS PROGRAMADOS                          ;;0;0;0;0
+415;JOSE ALBEROLA C.B.                                ;;0;0;0;0
+416;ALBERTO PUCHADES GARCIA S.L.                      ;;0;0;0;0
+417;PARROQUIA SAN PASCUAL BAILON                      ;;0;0;0;0
+418;COOP.V.MARENY BARRAQUETES                         ;;0;0;0;0
+419;ALEIXANDRE BRU,J.HILARIO                          ;;0;0;0;0
+420;SERV.DE SANIDAD Y CERTIF.VEGET                    ;;0;0;0;0
+421;VIÑOLES CEBOLLA ALFREDO                           ;;0;0;0;0
+422;FERRI FOS CARMEN                                  ;;0;0;0;0
+423;ALEMANY VEMDRELL VICENTA                          ;;0;0;0;0
+424;CABAÑERO ZAPATA MARCO ANTONIO                     ;;0;0;0;0
+425;LOPEZ GARCIA FELICIDAD                            ;;0;0;0;0
+426;GARCIA FOS JOSE                                   ;;0;0;0;0
+427;VENDRELL VAYA MARIA                               ;;0;0;0;0
+428;SIMEON FONS MARIA SALES                           ;;0;0;0;0
+429;MIRALLES TORREMOCHA JUAN CARLO                    ;;0;0;0;0
+430;MIRALLES ARNAU OSCAR                              ;;0;0;0;0
+431;ARNAU TOMAS MARIA ANGELES                         ;;0;0;0;0
+432;ASTRUELLS LLOPIS JUAN BTA.                        ;;0;0;0;0
+433;SANCHEZ TORRENT JUAN ANTONIO                      ;;0;0;0;0
+434;SANCHEZ TORRENT MARIA CARMEN                      ;;0;0;0;0
+435;ALBEROLA GARI SIMEON                              ;;0;0;0;0
+436;ROIG BENAVENT ENCARNACION                         ;;0;0;0;0
+437;RANCHAL SOLER AMPARO                              ;;0;0;0;0
+438;ARNAU MATOSES SALVADOR                            ;;0;0;0;0
+439;TORREMOCHA MORENO CESAR                           ;;0;0;0;0
+440;VENDRELL COLLADO FRANCISCO                        ;;0;0;0;0
+441;SIMON MARTINEZ M ANGELES                          ;;0;0;0;0
+442;BOLUDA FUERTES SOFIA                              ;;0;0;0;0
+443;MONCHO MATOSES MARIA PILAR                        ;;0;0;0;0
+444;LAPAUSA CANALEJO RAFAEL                           ;;0;0;0;0
+445;BURRIEL FERRANDIS CARLOS                          ;;0;0;0;0
+446;MARTI PEREZ VICENTA                               ;;0;0;0;0
+447;ARNAU SIMEON LEONOR                               ;;0;0;0;0
+448;BARCELO FERNANDEZ SERGIO                          ;;0;0;0;0
+449;PUCHADES ARCE JUAN                                ;;0;0;0;0
+450;FOS FONS, IGNACIO                                 ;;0;0;0;0
+451;MARCO FERRER JOSEFA                               ;;0;0;0;0
+452;VENDRELL PIERA FRANCISCO                          ;;0;0;0;0
+453;TAPIA ALACREU MANUEL                              ;;0;0;0;0
+454;MARCO PEREZ,LUIS                                  ;;0;0;0;0
+455;CUENCA PEDROS ANGELINA                            ;;0;0;0;0
+456;BALLESTER MARCO,MARIA JULIA                       ;;0;0;0;0
+457;MARTORELL OCHS,CARMEN                             ;;0;0;0;0
+458;GARCIA GIL, JOSE MANUEL                           ;;0;0;0;0
+459;MOMPO TORRENMOCHA JUAN VTE.                       ;;0;0;0;0
+460;RAMIREZ AMORAGAS MARIANO                          ;;0;0;0;0
+461;OLIVERT VALERA,JUAN ANTONIO                       ;;0;0;0;0
+462;ARNAU GONZALEZ DIEGO JOSE                         ;;0;0;0;0
+463;CORTES SERRANO ROSARIO                            ;;0;0;0;0
+464;PENADES CARBONELL CARMEN                          ;;0;0;0;0
+465;TORREMOCHA PEDROS ROSA MARIA                      ;;0;0;0;0
+466;ESCRIVA GRAU JOSE                                 ;;0;0;0;0
+467;VALERO MARTINEZ ADORACION                         ;;0;0;0;0
+468;NICOLA SIMEON VICENTE                             ;;0;0;0;0
+469;FERRER MARTIN MATILDE                             ;;0;0;0;0
+470;TORRENT AGUADO CARMEN                             ;;0;0;0;0
+471;ALIAGA MARCO ENCARNACION                          ;;0;0;0;0
+472;CAPSI ARNEDO MARIA AURELIA                        ;;0;0;0;0
+473;MICO ROMEU JOSE                                   ;;0;0;0;0
+474;MARCO FONS JUAN                                   ;;0;0;0;0
+475;ORTEGA OSCA MARIA JOSEFA                          ;;0;0;0;0
+476;PONS NICOLA MARIA DOLORES                         ;;0;0;0;0
+477;GIL MARTI ADELINO                                 ;;0;0;0;0
+478;VENDRELL COLLADO ROSARIO                          ;;0;0;0;0
+479;PARDO GORRIS ANTONIA                              ;;0;0;0;0
+480;LOPEZ ESCUER SARA                                 ;;0;0;0;0
+481;TORREMOCHA BENEDITO TRINIDAD                      ;;0;0;0;0
+482;MORTES VENDRELL ALFONSO                           ;;0;0;0;0
+483;FERRI CHULIA,MARIA TERESA                         ;;0;0;0;0
+484;PUCHADES MIÑANA M.DEL CARMEN                      ;;0;0;0;0
+485;FEVIGEST S.L.                                     ;;0;0;0;0
+486;JAVALOYES MARCILLA FERNANDO                       ;;0;0;0;0
+487;PELLICER RUBIO RAQUEL                             ;;0;0;0;0
+488;CABAÑERO ZAPATA ROCIO                             ;;0;0;0;0
+489;CABEDO MIÑANA EVA INES                            ;;0;0;0;0
+490;AGUADO MORA NATIVIDAD                             ;;0;0;0;0
+491;ESTEVE BENITO RAQUEL                              ;;0;0;0;0
+492;FERRER CARBONELL JOSE GERARDO                     ;;0;0;0;0
+493;JOSE VICENTE AGUADO GARCIA C.B                    ;;0;0;0;0
+494;CANO COSTA JUAN JOSE                              ;;0;0;0;0
+495;COLLADO FOS VICENTE                               ;;0;0;0;0
+496;ROS GIL MARIA DEL MAR                             ;;0;0;0;0
+497;PONS SIMON S.L                                    ;;0;0;0;0
+498;COMUNIDAD DE PROPIERAT.MENORCA                    ;;0;0;0;0
+499;MIRALLES ARNAU MARIA JOSE                         ;;0;0;0;0
+500;TORREMOCHA BENEDITO M¦ ANTONIA                    ;;0;0;0;0
+501;JUAREZ SANCHEZ SOLEDAD                            ;;0;0;0;0
+502;ALIAGA VENDRELL,FRANCISCO                         ;;0;0;0;0
+503;BELTRAN ALEMANY VICENTA MARIA                     ;;0;0;0;0
+504;MARIMON BLASCO,M.REYES                            ;;0;0;0;0
+505;BAYONA GIMENO JOSEFA                              ;;0;0;0;0
+506;GARCIA BONACHE MIGUEL                             ;;0;0;0;0
+507;PIQUERES MIÑANA GONZALO                           ;;0;0;0;0
+508;ALBEROLA MARCO,DESAMPARADOS                       ;;0;0;0;0
+509;GALVEZ FERNANDEZ MARIA CARMEN                     ;;0;0;0;0
+510;RANCHAL SOLER MARIA LOURDES                       ;;0;0;0;0
+511;GIL CHANQUES SERAFINA                             ;;0;0;0;0
+512;OLIVERT VALERA ROSA MARIA                         ;;0;0;0;0
+513;MARCO SORIANO MARIA ANTONIA                       ;;0;0;0;0
+514;ESTEVE LLEONART, DOLORES                          ;;0;0;0;0
+515;TARONGER SANDIEGO CONCEPCION                      ;;0;0;0;0
+516;TORREMOCHA PERIS,PURIFICACION                     ;;0;0;0;0
+517;CORTES REQUENA ANTONIO                            ;;0;0;0;0
+518;MARTINEZ PIQUERES JERONIMO                        ;;0;0;0;0
+519;COLLADO FOS GEMMA                                 ;;0;0;0;0
+520;ESCRIVA IBORRA,MARIA JOSE                         ;;0;0;0;0
+521;FERRI BELTRAN,FRANCISCO                           ;;0;0;0;0
+522;ARANDA PUCHADES ESTHER                            ;;0;0;0;0
+523;MESEGUER BALDOVI MARIA DOLORES                    ;;0;0;0;0
+524;GIL MIRALLES JUAN JOSE                            ;;0;0;0;0
+525;NICOLA MARCO JOSEFA                               ;;0;0;0;0
+526;GARCIA GIL RAFAEL                                 ;;0;0;0;0
+527;MARCO FIGUERES MARIA TERESA                       ;;0;0;0;0
+528;PEDROS RUBIO MARIA ANGELES                        ;;0;0;0;0
+529;NICOLA TORRENT JUAN                               ;;0;0;0;0
+530;BALLESTER BOU VICENTA                             ;;0;0;0;0
+531;VIVO FURIO VICENTA                                ;;0;0;0;0
+532;ARNAU CEA GEMMA                                   ;;0;0;0;0
+533;MARTORELL CEA GEMMA BEATRIZ                       ;;0;0;0;0
+534;MARCO LOPEZ MARIA                                 ;;0;0;0;0
+535;PERIS MARCO JUAN ANTONIO                          ;;0;0;0;0
+536;VANACLOY ZORRILLA MARIA ROSARI                    ;;0;0;0;0
+537;CORTES REQUENA VICENTE                            ;;0;0;0;0
+538;GUARINOS VIÑOLES MARIA DOLORES                    ;;0;0;0;0
+539;CASAÑ MARTI MANUEL                                ;;0;0;0;0
+540;DOMINGO AZNAR MIGUEL ANGEL                        ;;0;0;0;0
+541;MARCO HERNANDEZ, ROBERTO                          ;;0;0;0;0
+542;PUCHADES CASTELLO,MARIA AMPARO                    ;;0;0;0;0
+543;JUAN ARNAU ENRIQUE SALES                          ;;0;0;0;0
+544;TORRADO AGUADO OSCAR                              ;;0;0;0;0
+545;SIMEON FONS ,MARIA VICENTA                        ;;0;0;0;0
+546;PONS VELIS FRANCISCO                              ;;0;0;0;0
+547;VILLEGAS SAEZ MANUEL                              ;;0;0;0;0
+548;CDAD.PROPIETARIOS EDIF.ADAN                       ;;0;0;0;0
+549;PUCHADES FERRER,SERGIO                            ;;0;0;0;0
+550;MOMPO TORREMOCHA MARIA ANGELES                    ;;0;0;0;0
+551;MOMPO TORREMOCHA CARMEN                           ;;0;0;0;0
+552;SANTAMARIA BLASCO MARIA JULIA                     ;;0;0;0;0
+553;GIL MARTI FRANCISCO                               ;;0;0;0;0
+554;TORREMOCHA FERRER RAFAEL                          ;;0;0;0;0
+555;PONS PASTOR JUAN MIGUEL                           ;;0;0;0;0
+556;NICOLA SIMEON CONSUELO                            ;;0;0;0;0
+557;MARTI SALES CONCEPCION                            ;;0;0;0;0
+558;MIÑANA VENDRELL ANGELES                           ;;0;0;0;0
+559;AMAYA AGUILERO PASTORA                            ;;0;0;0;0
+560;ORTIZ FERRIS ,AMELIA MARIA                        ;;0;0;0;0
+561;CABAÑERO FERNANDEZ MARTIN                         ;;0;0;0;0
+562;MARCO PEREZ, ENCARNACION                          ;;0;0;0;0
+563;AUTO PERELLO C.B.                                 ;;0;0;0;0
+564;MARTINEZ CASTELLO,M.DOLORES                       ;;0;0;0;0
+565;NAZ HERAS MARIA DEL PILAR                         ;;0;0;0;0
+566;SIMEON MARTINEZ M.CARMEN                          ;;0;0;0;0
+567;SANCHEZ CAÑAS ANGELES                             ;;0;0;0;0
+568;VENDRELL PASTOR AMPARO                            ;;0;0;0;0
+569;PASTOR VENAVENT JOAQUINA                          ;;0;0;0;0
+570;POMARES ALIAGA ROBERTO                            ;;0;0;0;0
+571;ALVAREZ ROYO FRANCISCO JAVIER                     ;;0;0;0;0
+572;CAMPINS RAMIREZ JUAN A.                           ;;0;0;0;0
+573;MARTI SALES ANA M.                                ;;0;0;0;0
+574;ARNAU MATOSES ANGELES                             ;;0;0;0;0
+575;MASO TALENS RAFAEL                                ;;0;0;0;0
+576;PONS COLLADO SALVADOR                             ;;0;0;0;0
+577;CALERO CAMPOS JOSE JOAQUIN                        ;;0;0;0;0
+578;GARCIA FOS VICENTE                                ;;0;0;0;0
+579;MAÑEZ CORTES PELAYO RAFAEL                        ;;0;0;0;0
+580;MORENO CHIRIVELLA JOSEFA                          ;;0;0;0;0
+581;ESTEVE BENITO JOAQUIN                             ;;0;0;0;0
+582;TOMAS PONS ROSA                                   ;;0;0;0;0
+583;ARNAU MATOSES, JOSE MARIA                         ;;0;0;0;0
+584;TORRENT AGUADO VICENTE                            ;;0;0;0;0
+585;PIZZERIA SIME C.B.                                ;;0;0;0;0
+586;VENDRELL VENDRELL,M.CARMEN                        ;;0;0;0;0
+587;RIOS BORJA,MARIA                                  ;;0;0;0;0
+588;BELTRAN NICOLAU,VICENTA                           ;;0;0;0;0
+589;LOPEZ TEBAR,JULIA                                 ;;0;0;0;0
+590;NICOLA FOS ,MARIA BELEN                           ;;0;0;0;0
+591;ALBEROLA ALAPONT M.ENCARNACION                    ;;0;0;0;0
+592;MARCO HERNANDEZ ANA FELICIDAD                     ;;0;0;0;0
+593;SOLER FDEZ DE AGUIRRE RICARDO                     ;;0;0;0;0
+594;BAU OLEGARIO, MARIA PILAR                         ;;0;0;0;0
+595;MORENO MARTI M¦CARMEN                             ;;0;0;0;0
+596;BELTRAN ALEMANY ,RAFAEL                           ;;0;0;0;0
+597;COLL CARRATALA, NURIA                             ;;0;0;0;0
+598;VANACLOY TARRAGON,ANTONIO                         ;;0;0;0;0
+599;BAU NAVARRO, JOSE VICENTE                         ;;0;0;0;0
+600;ALABAU BORIA VICENTE                              ;;0;0;0;0
+601;MORENO PLA,M.CARMEN                               ;;0;0;0;0
+602;CORTES SORIANO, VICENTE                           ;;0;0;0;0
+603;QUILIS SIURANA,JULIO                              ;;0;0;0;0
+604;FOS FONS, PASCUAL                                 ;;0;0;0;0
+605;MICO ROMEU,SALVADOR                               ;;0;0;0;0
+606;TORRENT LOPEZ, ISABEL                             ;;0;0;0;0
+607;FERNANDEZ AGUADO,ANGEL                            ;;0;0;0;0
+608;PUCHADES ALIÑO,PURIFICACION                       ;;0;0;0;0
+609;ARANDA PUCHADES,M.AMPARO                          ;;0;0;0;0
+610;COLLADO BELTRAN, AMPARO                           ;;0;0;0;0
+611;PUCHADES LUJAN, CARMEN                            ;;0;0;0;0
+612;TOMAS PONS, ENRIQUE                               ;;0;0;0;0
+613;MARTORELL CEA, JUAN JOSE                          ;;0;0;0;0
+614;MORENO SARRIO, VERONICA                           ;;0;0;0;0
+615;SOLER CASTELLO SALVADORA                          ;;0;0;0;0
+616;HOK LEUNG PANG                                    ;;0;0;0;0
+617;VENDRELL PIERA, VALENTIN                          ;;0;0;0;0
+618;NICOLAS PEREZ JOSEFA                              ;;0;0;0;0
+619;PERELLO MOTORS, C.B.                              ;;0;0;0;0
+620;SIMEON HERVAS, SALVADOR                           ;;0;0;0;0
+621;SORIANO NICOLA, M.JESUS                           ;;0;0;0;0
+622;FURIO GIMENO, BLAS                                ;;0;0;0;0
+623;GIL GIMENO, MARIA DOLORES                         ;;0;0;0;0
+624;VENDRELL SANTAMARIA M.FRANCISC                    ;;0;0;0;0
+625;ZARAGOZA FOS, AGUSTIN                             ;;0;0;0;0
+626;DOMINGO PALACIOS, RICARDO                         ;;0;0;0;0
+627;OLEGARIO MELERO, ROSA                             ;;0;0;0;0
+629;PONS VILA AMPARO                                  ;;0;0;0;0
+630;GIL CARRION JORGE JUAN                            ;;0;0;0;0
+631;FOS IBAÑEZ ANTONIA                                ;;0;0;0;0
+632;FURIO GIL M.CARMEN                                ;;0;0;0;0
+633;SIMEON FONS JORGE                                 ;;0;0;0;0
+634;BALLESTER ESTRUCH JOSE                            ;;0;0;0;0
+635;FOS GIL VIRTUDES                                  ;;0;0;0;0
+636;ARNAU GONZALEZ SALVADOR                           ;;0;0;0;0
+637;MOLINA MARTINEZ ANGELA                            ;;0;0;0;0
+638;CORTS MESEGUER, AMPARO                            ;;0;0;0;0
+639;TORREMOCHA BENEDITO, FRANCISCO                    ;;0;0;0;0
+640;MIRALLES TORREMOCHA, CARMEN                       ;;0;0;0;0
+641;SIMEON FONS, MANUELA                              ;;0;0;0;0
+642;MARCO COLLADO, LUISA                              ;;0;0;0;0
+643;COLLADO COVES, CARMEN                             ;;0;0;0;0
+644;ALAPONT SIMO, JUAN MIGUEL                         ;;0;0;0;0
+645;ALBEROLA CARBONELL, VIENTE J.                     ;;0;0;0;0
+646;MORTES SOLER, PASCUAL                             ;;0;0;0;0
+647;FRANCISCO ARANDA S.L.                             ;;0;0;0;0
+648;VIDAL ORTELLS, CARMEN                             ;;0;0;0;0
+649;FOS CEBOLLA, VICENTA                              ;;0;0;0;0
+650;TARIN FOS, JOAQUIN                                ;;0;0;0;0
+651;SERRANO ARTAL, JOSE MARIA                         ;;0;0;0;0
+652;ASOCIACION AMAS DE CASA                           ;;0;0;0;0
+653;NICOLA SIMEON,ALICIA                              ;;0;0;0;0
+654;VENDRELL COLLADO,CARMEN                           ;;0;0;0;0
+655;NAVARRO NAVARRO,DOLORES                           ;;0;0;0;0
+656;GOMEZ MARCO,JOSE ANTONIO                          ;;0;0;0;0
+657;CHANQUES VENDRELL,VICENTE DANI                    ;;0;0;0;0
+658;SANTACATALINA BIENDICHO,REGINA                    ;;0;0;0;0
+659;MARTINEZ GARCIA,MARIA ISABEL                      ;;0;0;0;0
+660;GARCIA MATOSES, M.ISABEL                          ;;0;0;0;0
+661;MIÑANA VENDRELL, CARMEN                           ;;0;0;0;0
+662;CASTELLO COLLADO AMPARO                           ;;0;0;0;0
+663;ROS GIL, OSCAR                                    ;;0;0;0;0
+664;NICOLA NAVARRO ,ROSA JOSEFA                       ;;0;0;0;0
+665;FOLQUES VIDAL ENCARNA                             ;;0;0;0;0
+666;SANCHEZ CA\AS, JOSE CARLOS                        ;;0;0;0;0
+667;J.P.FERRER ALBEROLA Y OTRO CB                     ;;0;0;0;0
+668;PASCUAL RIPOLL,SALVADOR                           ;;0;0;0;0
+669;FERRANDO GONZALEZ,MANUEL ANGEL                    ;;0;0;0;0
+670;FOS C.B.                                          ;;0;0;0;0
+671;FABRA FRECHINA JUAN                               ;;0;0;0;0
+672;JAVALOYES MARCILLA,ENCARNACION                    ;;0;0;0;0
+673;AGUADO VIVO ,JOSE                                 ;;0;0;0;0
+674;TORO BERTOMEU ,CARMEN                             ;;0;0;0;0
+675;PUCHADES MARCO,VICTORIANO                         ;;0;0;0;0
+676;GUIJARRO MUÑOZ,JOSE                               ;;0;0;0;0
+677;FERRER DEVESA, PILAR                              ;;0;0;0;0
+678;MARCO OCHS, ANTONIO                               ;;0;0;0;0
+679;AGUADO GARCIA MARIA AMPARO                        ;;0;0;0;0
+680;OCHS BALLESTER, JUAN                              ;;0;0;0;0
+681;BLASCO LAZARO, JULIA                              ;;0;0;0;0
+682;SIMON GARCIA, DOLORES                             ;;0;0;0;0
+683;OLIVERT VALERA, MARIA JOSE                        ;;0;0;0;0
+684;GARCIA MARCO, DOLORES                             ;;0;0;0;0
+685;MARCO COLLADO, JAIME                              ;;0;0;0;0
+686;ALBEROLA PASTOR, JOSEFA MARIA                     ;;0;0;0;0
+687;SELMA CERVELLO, CARMEN                            ;;0;0;0;0
+688;PUCHADES TORO ,JULIO                              ;;0;0;0;0
+689;MOMPO SANCHEZ,MARIA ANGELES                       ;;0;0;0;0
+690;NAVARRO CARRION ,RESURRECCION                     ;;0;0;0;0
+691;CORTES MORENO,MARIA LUISA                         ;;0;0;0;0
+692;FERRER ALBEROLA,JOSE PASCUAL                      ;;0;0;0;0
+693;ESCRIVA FONS M.TERESA                             ;;0;0;0;0
+694;ROSELLO GARCIA VICENTE                            ;;0;0;0;0
+695;ALIAGA MARCO ,ROBERTO                             ;;0;0;0;0
+696;FERRI BELTRAN, JUAN                               ;;0;0;0;0
+697;CARBONELL PEIRO, FELIPE                           ;;0;0;0;0
+698;AGUADO VIVO, EMILIA                               ;;0;0;0;0
+699;PEREZ BADIA, JESUS                                ;;0;0;0;0
+700;GABALDON LOPEZ, FRANCISCO                         ;;0;0;0;0
+701;MICO LOPEZ, M. ISABEL                             ;;0;0;0;0
+702;ESTRUCH FILARDI, M. ANGELES                       ;;0;0;0;0
+703;FIGUERES ROSELL, TERESA                           ;;0;0;0;0
+704;CEA GONZALEZ NICOLASA                             ;;0;0;0;0
+705;TORREMOCHA PEDROS M.ANGELES                       ;;0;0;0;0
+706;GARCIA LOBATO, JOSE LUIS                          ;;0;0;0;0
+707;ALBEROLA CARBONELL,M.ASUNCION                     ;;0;0;0;0
+708;BRAOJOS GALVEZ, M.DEL CARMEN                      ;;0;0;0;0
+709;CEA GONZALEZ, JOSEFA                              ;;0;0;0;0
+710;TORREMOCHA SANZ, ANTONIO                          ;;0;0;0;0
+711;COLLADO BENEDITO,CARMEN                           ;;0;0;0;0
+712;BAQUERO ROIG, BENILDE                             ;;0;0;0;0
+713;CASA EL BLANCO, S.A.                              ;;0;0;0;0
+714;COLLADO ALBEROLA, ENRIQUE                         ;;0;0;0;0
+715;MARCO HERNANDEZ, ROSARIO ASUNC                    ;;0;0;0;0
+716;SAVALLS MIRALLES,M.ANGELES                        ;;0;0;0;0
+717;AGUDO MARTINEZ, ROSALIA SALUD                     ;;0;0;0;0
+718;BLASCO FERRANDO, NATIVIDAD                        ;;0;0;0;0
+719;CANO COSTA, EVERILDA                              ;;0;0;0;0
+720;COSTA GARCIA, EVERILDA                            ;;0;0;0;0
+721;MARCO OCHS, MANUEL                                ;;0;0;0;0
+722;CASTELLO COBERT, M. MERCEDES                      ;;0;0;0;0
+723;CARRATALA TORRENT, VICENTE                        ;;0;0;0;0
+724;GONZALVO MONTAGUT,IRENE                           ;;0;0;0;0
+725;COLLADO OBON, JOSE                                ;;0;0;0;0
+726;CARRATALA TORRENT, SALVADOR                       ;;0;0;0;0
+727;DELGADO JORDAN, M.TRINIDAD                        ;;0;0;0;0
+728;GARCIA CAMPOS M.AMPARO                            ;;0;0;0;0
+729;ALIAGA MIÑANA, FRANCISCA                          ;;0;0;0;0
+730;RANCHAL SOLER, JOSE                               ;;0;0;0;0
+731;ARNAU TOMAS, FERNANDO                             ;;0;0;0;0
+732;LOPEZ TEBAR, CONCEPCION                           ;;0;0;0;0
+733;GONZALEZ LOPEZ, JOSE MANUEL                       ;;0;0;0;0
+734;RANCHAL ORTIZ, JOSE                               ;;0;0;0;0
+735;LOBATO MELLADO, AMALIA                            ;;0;0;0;0
+736;CARRATALA PASTOR, JOSEFA M.                       ;;0;0;0;0
+737;RANCHAL SOLER, ANA MARIA                          ;;0;0;0;0
+738;ARNAU MATOSES, FILOMENA                           ;;0;0;0;0
+739;LATORRE GINES,  ANTONIA                           ;;0;0;0;0
+740;POMARES ALIAGA, GUILLERMO                         ;;0;0;0;0
+741;MORENO SARRION, ABEL                              ;;0;0;0;0
+742;COLLADO PUCHADES, HORTENSIA                       ;;0;0;0;0
+743;NICOLA FURIO, DOLORES                             ;;0;0;0;0
+744;GARCIA COLLADO M.ELENA                            ;;0;0;0;0
+745;POMARES MAS, GUILLERMO                            ;;0;0;0;0
+746;PONS SANCHEZ, JOSEFA                              ;;0;0;0;0
+747;CASTELLO FOS, SERGIO                              ;;0;0;0;0
+748;GIL MARCO, CONCEPCION                             ;;0;0;0;0
+749;AGUADO GARCIA, DOLORES                            ;;0;0;0;0
+750;COLLADO BENEDITO, JOSE ANTONIO                    ;;0;0;0;0
+751;ESCRIVA FONS JOSE VTE                             ;;0;0;0;0
+752;MORTES SOLER, VICENTE                             ;;0;0;0;0
+753;GRANELL BLASCO, PEDRO JAVIER                      ;;0;0;0;0
+754;PORCAR MAGRANER M. AMPARO                         ;;0;0;0;0
+755;DOMINGO MARIN, JOSE                               ;;0;0;0;0
+756;GARCIA COLLADO, SILVIA                            ;;0;0;0;0
+757;ALIAGA MARCO, JOSE ANTONIO                        ;;0;0;0;0
+758;PELUFO GOMIS, TERESA MARIA                        ;;0;0;0;0
+759;MARTINEZ ORTEGA ,LUIS FDO.                        ;;0;0;0;0
+760;MORTES FERRER, MARCOS                             ;;0;0;0;0
+761;TABERNER COLLADO, JOSE LUIS                       ;;0;0;0;0
+762;PLA GARCIA, ESPERANZA                             ;;0;0;0;0
+763;SANBLAS NARANJO, ANTONIO                          ;;0;0;0;0
+764;ALBEROLA ARANDA, FEDERICO                         ;;0;0;0;0
+765;BIENDICHO GARCIA, JUAN                            ;;0;0;0;0
+766;MORENO SIMO, HERMINIA                             ;;0;0;0;0
+767;TORTOSA CARIENA, SALVADOR                         ;;0;0;0;0
+768;BAU OLEGARIO, MANUEL                              ;;0;0;0;0
+769;GARCIA MORENO, RAFAEL                             ;;0;0;0;0
+770;MORENO MARTI, VICENTE PASCUAL                     ;;0;0;0;0
+771;ASOC.AGRICOLA PERELLO (CASINO)                    ;;0;0;0;0
+772;LURBE ESTORNELL, FELICIDAD                        ;;0;0;0;0
+773;TORRADO AGUADO, JUAN JOSE                         ;;0;0;0;0
+774;MARCILLA SORIA, MARIA                             ;;0;0;0;0
+775;MORENO SIMO, JOSE                                 ;;0;0;0;0
+776;GARCIA SANTACATALINA, SIMEON                      ;;0;0;0;0
+777;COLLADO ALBEROLA, RAMON                           ;;0;0;0;0
+778;CANO CUENCA, JOSE LUCAS                           ;;0;0;0;0
+779;MICO MORENO, MAGDALENA                            ;;0;0;0;0
+780;VILLEGAS RIOS, VICENTE                            ;;0;0;0;0
+781;MORENO PLA, LUIS SALVADOR                         ;;0;0;0;0
+782;ROS GIL, CLAUDIO FRANCISCO                        ;;0;0;0;0
+783;SORIANO NICOLA, MANUEL VICENTE                    ;;0;0;0;0
+784;GARULO AMAT, FRANCISCO                            ;;0;0;0;0
+785;FERRERAS BENEDITO ,LUIS                           ;;0;0;0;0
+786;TARIN FOS ROSA MARIA                              ;;0;0;0;0
+787;GOZALVO ASINS JORGE                               ;;0;0;0;0
+788;LERMA MORENO, JOSE                                ;;0;0;0;0
+789;FERNANDEZ GARRIDO ANDRES R.                       ;;0;0;0;0
+790;AGUADO CISCAR, JUAN JOSE                          ;;0;0;0;0
+791;FERNANDEZ VIDAL M.CARMEN                          ;;0;0;0;0
+792;ARNAU TOMAS, EMILIA                               ;;0;0;0;0
+793;ROIG TAMARIT, VICENTE                             ;;0;0;0;0
+794;GIL BELTRAN PILAR                                 ;;0;0;0;0
+795;VENDRELL VENDRELL JOSE                            ;;0;0;0;0
+796;MARCO FERRER, JOSEFA DESAMPAR.                    ;;0;0;0;0
+797;MIRALLES CANO, PALOMA                             ;;0;0;0;0
+798;COLL SALVADOR, ROSA                               ;;0;0;0;0
+799;MOMPO SANCHEZ, JOSE VICENTE                       ;;0;0;0;0
+800;MARTORELL TORRENT, BIENVENIDA                     ;;0;0;0;0
+801;MORENO MARTI, JUAN MIGUEL                         ;;0;0;0;0
+802;PERIS PEREZ, JUAN VICENTE                         ;;0;0;0;0
+803;FERNANDEZ FERRER, ANDRES                          ;;0;0;0;0
+804;FURIO GIL, FRANCISCO LUCAS                        ;;0;0;0;0
+805;ZARZOSO COBO, MANUEL                              ;;0;0;0;0
+806;FCO.ALBEROLA PASTOR E HIJO C.B.                   ;;0;0;0;0
+807;PLA GARCIA , CARMEN                               ;;0;0;0;0
+808;PEREZ FOS, LAMBERTO                               ;;0;0;0;0
+809;LOPEZ MULET, JAIME                                ;;0;0;0;0
+810;LLUNA TORREMOCHA, DANIEL FCO.                     ;;0;0;0;0
+811;SIMEON MARCO CONSUELO                             ;;0;0;0;0
+812;RINCON TORREMOCHA, JOAQUIN                        ;;0;0;0;0
+813;BURRIEL TUDELA, FRANCISCO                         ;;0;0;0;0
+814;FOS PUCHADES, JUAN JOSE                           ;;0;0;0;0
+815;MOCHOLI FURIO VICENTE                             ;;0;0;0;0
+816;NICOLA TORRENT CRISTINA DESAMP                    ;;0;0;0;0
+817;ALEIXANDRE ESTRUCH HILARIO                        ;;0;0;0;0
+818;ALBEROLA ALAPONT JOSE MIGUEL                      ;;0;0;0;0
+819;MUÑOZ LOPEZ JOSE MARIA                            ;;0;0;0;0
+820;JIMENEZ TORRES JUAN                               ;;0;0;0;0
+821;PIQUERES ALBEROLA GONZALO                         ;;0;0;0;0
+822;FURIO MARCO MIGUEL                                ;;0;0;0;0
+823;CANO NICOLAS MARIA DEL CARMEN                     ;;0;0;0;0
+824;MARCO GONZALVEZ JOSEFA                            ;;0;0;0;0
+825;CASTELLO FOS VICENTE                              ;;0;0;0;0
+826;MORTES FERRER PASCUAL                             ;;0;0;0;0
+827;PELLICER FERRE NARCISO                            ;;0;0;0;0
+828;SORIANO PUCHADES MIGUEL                           ;;0;0;0;0
+829;TORRES GIL JUAN LUIS                              ;;0;0;0;0
+830;NICOLA LOPEZ DAVID                                ;;0;0;0;0
+831;BENEDITO SALGUERO TRINIDAD                        ;;0;0;0;0
+832;VILLEGAS RIOS MANUEL                              ;;0;0;0;0
+833;MIRALLES LOPEZ JUAN LUIS                          ;;0;0;0;0
+834;MIÑANA PONS FRANCISCO JOSE                        ;;0;0;0;0
+835;ALACOSTA TUDELA, JOSE                             ;;0;0;0;0
+836;PONS CHULIA FRANCISCO                             ;;0;0;0;0
+837;PUCHADES MIÑANA CONCEPCION                        ;;0;0;0;0
+838;PUCHADES FERRER EMILIO                            ;;0;0;0;0
+839;NICOLA NAVARRO EMILIO PASCUAL                     ;;0;0;0;0
+840;HERRERA MUÑOZ MARIA DOLORES                       ;;0;0;0;0
+841;ALBEROLA GARI ENRIQUETA                           ;;0;0;0;0
+842;TORREMOCHA MORENO FRANCISCO                       ;;0;0;0;0
+843;LOPEZ MARCO EDUARDO                               ;;0;0;0;0
+844;COLLADO GONZALEZ JOSE                             ;;0;0;0;0
+845;MICO LOPEZ SALVADOR                               ;;0;0;0;0
+846;ESTEVE LLISO JOAQUIN                              ;;0;0;0;0
+847;RAMIREZ CHISVERT JOSE JAVIER                      ;;0;0;0;0
+848;PONS PENADES MARIA JESUS                          ;;0;0;0;0
+849;BURGUERA CLAVER JUAN BAUTISTA                     ;;0;0;0;0
+850;OCHS SIMEON ROSA MARIA                            ;;0;0;0;0
+851;PONS CHULIA JUAN CARLOS                           ;;0;0;0;0
+852;AGUADO GARCIA TOMAS                               ;;0;0;0;0
+853;GARCIA ARTERO AMPARO                              ;;0;0;0;0
+854;AGUADO GARCIA JOSE VICENTE                        ;;0;0;0;0
+855;FOS AGUADO FERNANDO                               ;;0;0;0;0
+856;LLUNA MONDRAGON MANUEL                            ;;0;0;0;0
+857;MOMPO GONZALEZ JUAN                               ;;0;0;0;0
+858;OCHS BALLESTER AMPARO                             ;;0;0;0;0
+859;MARAVILLA SOLER FRANCISCO                         ;;0;0;0;0
+860;NICOLA FOS JOSE MIGUEL                            ;;0;0;0;0
+861;PUIG FOLQUES JUAN ANTONIO                         ;;0;0;0;0
+862;PASCUAL MARTINEZ VICENTE                          ;;0;0;0;0
+863;GONZALEZ PEREZ JOSE                               ;;0;0;0;0
+864;PUCHADES FERRER JOSE GABRIEL                      ;;0;0;0;0
+865;MARTINEZ SERRANO JOSE EMILIO                      ;;0;0;0;0
+866;CABEDO MINANA BERNARDO                            ;;0;0;0;0
+867;GARCIA SANTACATALINA VTE.TOMAS                    ;;0;0;0;0
+868;GARCIA SANTACATALINA JUAN JOSE                    ;;0;0;0;0
+869;MARAVILLA SOLER JUAN SALVADOR                     ;;0;0;0;0
+870;FERNANDEZ VIDAL ANGEL ANDRES                      ;;0;0;0;0
+871;MARCO FIGUERES JUAN CARLOS                        ;;0;0;0;0
+872;MARCO FIGUERES ENRIQUE                            ;;0;0;0;0
+873;TORREMOCHA ARNAU ENRIQUE SENEN                    ;;0;0;0;0
+874;LLUNA MONDRAGON VTE.MANUEL                        ;;0;0;0;0
+875;ARNAU CEA CARLOS                                  ;;0;0;0;0
+876;PUCHADES LOPEZ JORGE                              ;;0;0;0;0
+877;MIRALLES LOPEZ RAUL                               ;;0;0;0;0
+878;MARCO FERNANDEZ FERNANDO                          ;;0;0;0;0
+879;MARCO FERNANDEZ JUAN ENRIQUE                      ;;0;0;0;0
+880;MARCO GOZALVEZ MANUEL                             ;;0;0;0;0
+881;VERDU NAVARRO RAMON                               ;;0;0;0;0
+882;COLLADO FORNES JOAQUIN                            ;;0;0;0;0
+883;IBANEZ TARIN JOSE ANTONIO                         ;;0;0;0;0
+884;LOPEZ VENDRELL ANGEL LUIS                         ;;0;0;0;0
+885;LOPEZ VENDRELL JAVIER                             ;;0;0;0;0
+886;LLOPIS COLL JUAN                                  ;;0;0;0;0
+887;PUCHADES CASTELLO JOSE VICENTE                    ;;0;0;0;0
+888;BELTRAN MARCO MERCEDES                            ;;0;0;0;0
+889;GARCIA ARNAU JUAN VICENTE                         ;;0;0;0;0
+890;MARCO GONZALVEZ PEDRO JUAN                        ;;0;0;0;0
+891;FOS PUCHADES BENITO PASCUAL                       ;;0;0;0;0
+892;SANTAMARIA BLASCO RICARDO                         ;;0;0;0;0
+893;GIL BELTRAN JOSE                                  ;;0;0;0;0
+894;SANCHEZ ACOSTA JOSEFA                             ;;0;0;0;0
+895;BENEDITO SALGUERO ENRIQUE IGN.                    ;;0;0;0;0
+896;MORENO MELERO MANUEL                              ;;0;0;0;0
+897;COLLADO FORNES JOSE                               ;;0;0;0;0
+898;SIMEON SERRANO ANTONIO                            ;;0;0;0;0
+899;VENDRELL PASTOR JOSE                              ;;0;0;0;0
+900;ARNAU TOMAS JOSE VICENTE                          ;;0;0;0;0
+901;AGUADO VIVO JUAN ENRIQUE                          ;;0;0;0;0
+902;TORREMOCHA PEDROS VICENTE                         ;;0;0;0;0
+903;AGUADO PUCHADES PURIFICACION                      ;;0;0;0;0
+904;COLUBI MARTI JUAN ANTONIO                         ;;0;0;0;0
+905;AZNAR RIERA JOSE                                  ;;0;0;0;0
+906;MIRALLES ARNASO JOSE                              ;;0;0;0;0
+907;ARNAU CEA JOSE EMILIO                             ;;0;0;0;0
+908;VILLEGAS RIOS PEDRO JUAN                          ;;0;0;0;0
+909;LOPEZ GONZALEZ MIGUEL                             ;;0;0;0;0
+910;PUIG FOLQUES EDUARDO JOSE                         ;;0;0;0;0
+911;PASTOR LOPEZ MIGUEL                               ;;0;0;0;0
+912;MARTINEZ SERRANO VICENTE                          ;;0;0;0;0
+913;GARCIA BONACHE JOSE                               ;;0;0;0;0
+914;ALBEROLA MARCO SIMEON                             ;;0;0;0;0
+915;MARTI BALLESTER JUAN BAUTISTA                     ;;0;0;0;0
+916;HERNANDEZ MOLINA SAMUEL                           ;;0;0;0;0
+917;CHULIA CHANQUES MANUEL                            ;;0;0;0;0
+918;BELTRAN MARCO GUILLERMINA                         ;;0;0;0;0
+919;ARNAU PEREZ JUAN                                  ;;0;0;0;0
+920;PUCHOL MARCO JAVIER                               ;;0;0;0;0
+921;OCHS SIMEON JUAN                                  ;;0;0;0;0
+922;DE LA ROSA MOCHOLI RAMON                          ;;0;0;0;0
+923;BARTUAL GARCES ELIAS                              ;;0;0;0;0
+924;NAVARRO MARTINEZ, JOSE                            ;;0;0;0;0
+925;ROS PIERA, MARIA                                  ;;0;0;0;0
+926;MARTI CAÑIZARES, EMILIO                           ;;0;0;0;0
+927;SORIANO PUCHADES, VICENTE                         ;;0;0;0;0
+928;PONS NICOLA, JUAN ENRIQUE                         ;;0;0;0;0
+929;PONS NICOLA,JULIAN JOSE                           ;;0;0;0;0
+930;PEREZ TUNEZ, JOSE MARIA                           ;;0;0;0;0
+931;FOS ALBEROLA, PASCUAL                             ;;0;0;0;0
+932;NICOLA LOPEZ, JOSE MIGUEL                         ;;0;0;0;0
+933;NICOLA LOPEZ, ANTONIO VICENTE                     ;;0;0;0;0
+934;PUCHADES GARCIA, ALBERTO                          ;;0;0;0;0
+935;ALEIXANDRE ESTRUCH,MANUEL                         ;;0;0;0;0
+936;VENDRELL SANTAMARIA FCO.JAVIER                    ;;0;0;0;0
+937;FOS ALBEROLA, JOSE MIGUEL                         ;;0;0;0;0
+938;PUCHADES LOPEZ, VICTORIANO                        ;;0;0;0;0
+939;TORRES GIL, ALFREDO EMILIO                        ;;0;0;0;0
+940;BAU GUILLEM, VICENTE                              ;;0;0;0;0
+941;MARTINEZ SERRANO, ESTEBAN                         ;;0;0;0;0
+942;FOS ALBEROLA, AGUSTIN                             ;;0;0;0;0
+943;BELTRAN MARCO, JOSE LUIS                          ;;0;0;0;0
+944;COLLANTES MARTINEZ,VICENTE                        ;;0;0;0;0
+945;MIÑANA RAMIREZ,JOSE ABELARDO                      ;;0;0;0;0
+946;ALBEROLA MARTORELL VICENTE                        ;;0;0;0;0
+947;BAU FERRER, MANUEL                                ;;0;0;0;0
+948;PONS SANCHEZ FRANCISCO                            ;;0;0;0;0
+949;BALLESTER MARCO ENRIQUE                           ;;0;0;0;0
+950;VALDIVIESO LORENZO JOSE MANUEL                    ;;0;0;0;0
+951;MARTORELL OCHS JOSE MANUEL                        ;;0;0;0;0
+952;MORENO CHIRIVELLA LUIS                            ;;0;0;0;0
+953;SAVALLS PASTOR EMILIO                             ;;0;0;0;0
+954;ALBEROLA PASTOR JOSE                              ;;0;0;0;0
+955;PUIG OCHS, JUAN                                   ;;0;0;0;0
+956;FLORS SENDRA VICENTE                              ;;0;0;0;0
+957;DEL CERRO CALABUIG MARIA JOSEFA;;0;0;0;0
+958;CHANQUES CABEDO JERONIMO                          ;;0;0;0;0
+959;LOPEZ GONZALEZ BARTOLOME                          ;;0;0;0;0
+960;BALLESTER ESTRUCH RAUL                            ;;0;0;0;0
+961;MOMPO GONZALEZ PLACIDO                            ;;0;0;0;0
+962;MARCO LLOPIS JOSE MANUEL                          ;;0;0;0;0
+963;MORTES ALIAGA IVAN                                ;;0;0;0;0
+964;BENEDITO SOLER ANTONIO                            ;;0;0;0;0
+965;CANO NICOLAS VICENTE                              ;;0;0;0;0
+966;COLLADO PUCHADES JOSE                             ;;0;0;0;0
+967;MARCO FONS FRANCISCO                              ;;0;0;0;0
+968;ALBEROLA PUCHADES FRANCISCO                       ;;0;0;0;0
+969;SANTAMARIA GIL ALVARO                             ;;0;0;0;0
+970;BELTRAN FRANCO JOSE                               ;;0;0;0;0
+971;PERIS MARCO CARLOS JAVIER                         ;;0;0;0;0
+972;MIRALLES RUBIO FRANCISCO                          ;;0;0;0;0
+973;TORRADO CORTES, JUAN ANTONIO                      ;;0;0;0;0
+974;APA COLEGIO PUBLICO PERELLO                       ;;0;0;0;0
+975;ALBEROLA PASTOR INES                              ;;0;0;0;0
+976;MOCHOLI RODRIGO VICENTE                           ;;0;0;0;0
+977;SANCHEZ PEREZ AMADOR                              ;;0;0;0;0
+978;PONS SANCHEZ SALVADOR                             ;;0;0;0;0
+979;MARTORELL OCHS PEDRO JUAN                         ;;0;0;0;0
+980;MOMPO GONZALEZ VICENTE                            ;;0;0;0;0
+981;PONS SANCHEZ JUAN                                 ;;0;0;0;0
+982;CHANQUES HERNANDEZ NATIVIDAD                      ;;0;0;0;0
+983;PONS GARCIA JOSE                                  ;;0;0;0;0
+984;TORREMOCHA PERIS FRANCISCO                        ;;0;0;0;0
+985;ZAPATA RODRIGUEZ CARMEN                           ;;0;0;0;0
+986;COLLADO PUCHADES VICENTE                          ;;0;0;0;0
+987;MARTINEZ FONS ESTEBAN                             ;;0;0;0;0
+988;PUCHADES AYUSO JOSE                               ;;0;0;0;0
+989;BALLESTER MARCO JOSE                              ;;0;0;0;0
+990;GIL GIMENO, FRANCISCO                             ;;0;0;0;0
+991;CHANQUES MORENO, FRANCISCO                        ;;0;0;0;0
+992;TARIN FERRA MIGUEL                                ;;0;0;0;0
+993;TORRES GORRIS, ALFREDO                            ;;0;0;0;0
+994;MUÑOZ CORTES, GREGORIO                            ;;0;0;0;0
+995;PUCHADES MARCO, JOSE                              ;;0;0;0;0
+996;AGUADO PUCHADES, JUAN                             ;;0;0;0;0
+997;AGRUPACION ELECTORAL I.P.M.                       ;;0;0;0;0
+998;MOMPO GONZALEZ, JOSE MARIA                        ;;0;0;0;0
+999;GIL MARTI, VICENTE                                ;;0;0;0;0
+1000;NICOLA FURIO, VICENTE                             ;;0;0;0;0
+1001;ARNAU MATOSES, FERNANDO                           ;;0;0;0;0
+1002;PUCHADES MARCO, EMILIO                            ;;0;0;0;0
+1003;ROS PIERA, CLAUDIO                                ;;0;0;0;0
+1004;CASTELLO COLLADO.,VICENTE                         ;;0;0;0;0
+1005;MARCO PEREZ ROBERTO                               ;;0;0;0;0
+1006;SIMEON BALLESTER, VICENTE                         ;;0;0;0;0
+1007;MIÑANA VENDRELL JOSE                              ;;0;0;0;0
+1008;SIMEON MARCO, JUAN ANTONIO                        ;;0;0;0;0
+1009;OLIVERT RAMON, JUAN                               ;;0;0;0;0
+1010;TORREMOCHA SANZ, ENRIQUE                          ;;0;0;0;0
+1011;MIRALLES ARNASO, JUAN                             ;;0;0;0;0
+1012;SANCHEZ PEREZ ,ANTONIO                            ;;0;0;0;0
+1013;MARCO FONS ENRIQUE                                ;;0;0;0;0
+1014;NICOLA FURIO MIGUEL                               ;;0;0;0;0
+1015;NICOLA TORREMOCHA, JUAN                           ;;0;0;0;0
+1016;CHANQUES MORENO VICENTE                           ;;0;0;0;0
+1017;VENDRELL COLLADO DANIEL                           ;;0;0;0;0
+1018;ASOC.DEPORTIVA PERELLO                            ;;0;0;0;0
+1019;MORENO CHIRIVELLA MIGUEL                          ;;0;0;0;0
+1020;LOPEZ TEBAR ANGEL                                 ;;0;0;0;0
+1021;MARCO BALLESTER SALVADOR                          ;;0;0;0;0
+1022;LANDETE FERRANDO, FRANCISCO                       ;;0;0;0;0
+1023;PONS SANCHEZ ANTONIO                              ;;0;0;0;0
+1024;GARCIA ALBEROLA ENRIQUE                           ;;0;0;0;0
+1025;FOS ALBEROLA RUBEN                                ;;0;0;0;0
+1026;PONS VELIS JULIAN                                 ;;0;0;0;0
+1027;GONZALEZ RODRIGUEZ JULIA                          ;;0;0;0;0
+1028;RODENAS GARCIA ROSANA JOSEFA                      ;;0;0;0;0
+1029;ARANDA MARCO FRANCISCO                            ;;0;0;0;0
+1030;COLL CARRATALA MIGUEL                             ;;0;0;0;0
+1031;ALBEROLA PASTOR FEDERICO                          ;;0;0;0;0
+1032;CANO NICOLAS, JUAN                                ;;0;0;0;0
+1033;LLOPIS COLLADO JUAN                               ;;0;0;0;0
+1034;LLUNA NAVARRO VICENTE                             ;;0;0;0;0
+1035;ARNAU MATOSES, EMILIO                             ;;0;0;0;0
+1036;LLOPIS MICO VICENTE                               ;;0;0;0;0
+1037;CANO NICOLAS ALFREDO                              ;;0;0;0;0
+1038;ARNAU PONS FRANCISCO                              ;;0;0;0;0
+1039;GARCIA GIL JUAN ENRIQUE                           ;;0;0;0;0
+1040;ROIG SAEZ FRANCISCO                               ;;0;0;0;0
+1041;ROIG SAEZ JOSE                                    ;;0;0;0;0
+1042;ANDREW MICHAEL COWLEY                             ;;0;0;0;0
+1043;GARCIA NAVARRO VICENTE                            ;;0;0;0;0
+1044;LOPEZ MARIN ELENA                                 ;;0;0;0;0
+1045;RANDO CAMPOS LAURA                                ;;0;0;0;0
+1046;BALLESTER LURBE CARLOS                            ;;0;0;0;0
+1047;MUÑOZ GIL MARIA DOLORES                           ;;0;0;0;0
+1048;NICOLAS GARCIA ANA MARIA                          ;;0;0;0;0
+1049;ALFONSO MARTINEZ M.DESAMPARADOS                   ;;0;0;0;0
+1050;VERDU NAVARRO M.PILAR                             ;;0;0;0;0
+1051;PRATS ARNAU INMACULADA                            ;;0;0;0;0
+1052;BELTRAN LATORRE ANTONIA                           ;;0;0;0;0
+1053;FERRER MARTIN MARIA                               ;;0;0;0;0
+1054;GIL REQUENA MARIA DOLORES                         ;;0;0;0;0
+1055;LOPEZ VENDRELL MARIA CARMEN                       ;;0;0;0;0
+1056;RAMOS NADAL SALVADOR JOSE                         ;;0;0;0;0
+1057;MIÑANA PONS JUAN JOSE                             ;;0;0;0;0
+1058;VITA FRESH B.V.                                   ;;0;0;0;0
+1059;DAYCES RENART S.L.                                ;;0;0;0;0
+1060;JUAN FUSTER ABELARDO                              ;;0;0;0;0
+1061;ALBAÑILERIA EL PERELLO CB                         ;;0;0;0;0
+1062;LLINARES CANTO PERIS                              ;;0;0;0;0
+1063;ESTEVENS ROIG MARIANO                             ;;0;0;0;0
+1065;HIPER  ASIATICO DE VALENCIA SL                    ;104;0;0;0;0
+1066;VAZQUEZ CATALA MANUEL                             ;;0;0;0;0
+1067;ALFREDO Y JUAN LUIS TORRES GIL                    ;;0;0;0;0
+1068;SHIMAI PAN (SUPERMER.TONG YA)                     ;;0;0;0;0
+1069;COVES FECE  ANTONIO                               ;;0;0;0;0
+1070;JAREÑO DIAGO TERESA                               ;;0;0;0;0
+1071;ASSOC.FESTERS DE SANT JOAN EL PERELLO             ;;0;0;0;0
+1072;UNFASA S.L.                                       ;;0;0;0;0
+1073;ALARCON LOZANO MIGUEL                             ;;0;0;0;0
+1074;SARRIO BONO JOSEP                                 ;;0;0;0;0
+1075;FUSTER  PASCUAL   BLAS                            ;;0;0;0;0
+1076;ARANDA TOCADOS FRANCISCO                          ;;0;0;0;0
+1077;SUICOR 2006, S.L.L.                               ;;0;0;0;0
+1078;CULTIUS CORDELLAT S.L.U                           ;;0;0;0;0
+1079;JOSE PEDROS ORTI                                  ;;0;0;0;0
+1080;CIVER S.A.                                        ;106;0;0;0;0
+1081;INTEGRAL GARDEN                                   ;;0;0;0;0
+1082;CASTILLO QUIROS EMILIO                            ;;0;0;0;0
+1083;CARPINTERIA INNOVACION S.L.                       ;;0;0;0;0
+1084;ALBIACH CASAÑ JOSE                                ;;0;0;0;0
+1085;ESCRIVA FONS J.VTE.S.L.U.                         ;;0;0;0;0
+1086;COMPANY MALONDA ALICIA                            ;;0;0;0;0
+1087;ESTEBAN MUÑOZ JOSE ANTONIO                        ;;0;0;0;0
+1088;BELTRAN MARTORELL JOSE LUIS                       ;;0;0;0;0
+1089;VIÑOLES CARBONELL FEDERICO                        ;;0;0;0;0
+1090;OCHS SIMEON LAURA                                 ;;0;0;0;0
+1091;MARTINEZ BALLESTER AMPARO                         ;;0;0;0;0
+1092;ION DUMINICA                                      ;;0;0;0;0
+1093;CASA XIMO                                         ;;0;0;0;0
+1094;ARCE PUCHADES MANUEL                              ;;0;0;0;0
+1095;VICTOR TRADING                                    ;131;0;0;0;0
+1096;TMIRLO, S.C.                                      ;;0;0;0;0
+1097;CIUDAD RESIDENCIAL VICOMAN                        ;;0;0;0;0
+1098;CAÑIZARES LEON CARMEN                             ;;0;0;0;0
+1099;COARVAL COOP.V.                                   ;;0;0;0;0
+1100;MUÑOZ AGUADO RAFAEL                               ;;0;0;0;0
+1101;AJUNTAMENT DE EL PERELLO                          ;;0;0;0;0
+1102;PENYA BARCELONISTA GENT BLAUGRANA                 ;;0;0;0;0
+1103;VICENTE ISAAC Y CIA C.B.                          ;;0;0;0;0
+1104;CREDIT VCA.C.R.COOP.CDTO.VAL.                     ;;0;0;0;0
+1105;ALBEROLA GISBERT S.L.                             ;;0;0;0;0
+1106;PONS SANCHEZ HNOS, JUAN                           ;;0;0;0;0
+1107;SANCANUTO BRU JOSE                                ;;0;0;0;0
+1108;DUZONG DAN                                        ;107;0;0;0;0
+1109;SARRIO VIVO JOSE                                  ;;0;0;0;0
+1110;FORD ESPAÑA SA                                    ;;0;0;0;0
+1111;IBERIANA;111;0;0;0;0
+1112;EMPRESA BALANZAT S.L.                             ;113;0;0;0;0
+1113;HOSTAL BLAYET S.L.                                ;;0;0;0;0
+1114;CONTRUC.E INTAL.PERELLO S.L.L                     ;;0;0;0;0
+1115;TRIALCAMP                                         ;;0;0;0;0
+1116;VIJOSAN SAL                                       ;;0;0;0;0
+1117;FALLA POBLE VELL                                  ;;0;0;0;0
+1118;FERRER SANJERONIMO, VICENTE                       ;;0;0;0;0
+1119;SOLVES REQUENA JUAN                               ;;0;0;0;0
+1120;SALVADOR JOSE MARQUES MESEGUER                    ;;0;0;0;0
+1121;METALICAS CORBERA, S.L.L.                         ;;0;0;0;0
+1122;FELIPE CARBONELL LAZARO                           ;;0;0;0;0
+1123;VILLANUEVA MUÑOZ ANTONIO                          ;;0;0;0;0
+1124;JUAN FABRA E HIJOS S.L.                           ;;0;0;0;0
+1125;BADIA ROIG ENRIQUE                                ;;0;0;0;0
+1126;GARRIGOS BAENA MIGUEL                             ;;0;0;0;0
+1127;VIATELA GARCIA JOSE VICENTE                       ;;0;0;0;0
+1128;BERNABEU MOLINA MIGUEL                            ;;0;0;0;0
+1129;CARRILLO FANDOS VICENTE JOSE                      ;;0;0;0;0
+1130;ACEQUIA RECATI-FCO.GIL GIMENO                     ;;0;0;0;0
+1131;MARTINEZ PEDROS JUAN                              ;;0;0;0;0
+1132;COPANSU S.L.L.                                    ;;0;0;0;0
+1133;CHISVERT DEVESA JOAQUIN RAMON                     ;;0;0;0;0
+1134;ALBEROLA PORCAR ANTONIO                           ;;0;0;0;0
+1135;SALAVIRA S.L.                                     ;;0;0;0;0
+1136;ROS ALMIÑANA JUAN VICENTE                         ;;0;0;0;0
+1137;FELIX RAMIREZ  JUAN                               ;;0;0;0;0
+1138;J.M. DOMINGO, S.L.                                ;;0;0;0;0
+1139;FOS SENDRA PEDRO                                  ;;0;0;0;0
+1140;GIRBES ALBORCH JOSE RAMON SALVADOR                ;;0;0;0;0
+1141;ALIMENTS RIBERA BAIXA SCLV                        ;;0;0;0;0
+1142;CDAD. MOTOR DE RIEGO RIOS                         ;;0;0;0;0
+1143;SAT PASIEGO VALENCIA                              ;;0;0;0;0
+1144;BORGERS, S.A.                                     ;;0;0;0;0
+1145;ALACREU RODRIGO VICENTE                           ;;0;0;0;0
+1146;JARDINERIA CASTELLO CB                            ;;0;0;0;0
+1147;RICO RICO FEDERICO                                ;;0;0;0;0
+1148;PENELLA BERMEJO DANIEL                            ;;0;0;0;0
+1149;ESCRIHUELA BARBARA FRANCISCO                      ;;0;0;0;0
+1150;OBRAS Y PROYECTOS DE LA MARJAL                    ;;0;0;0;0
+1151;LLACER FELIU RICARDO                              ;;0;0;0;0
+1152;ROMERO LLOPIS RAIMUNDO                            ;;0;0;0;0
+1153;GESTION INTEGRAL DE RECICLAJES                    ;;0;0;0;0
+1154;CONSTRUCCIONES LA LLASTRA, S.L.                   ;;0;0;0;0
+1155;JOSEFA PONS SANCHEZ                               ;;0;0;0;0
+1156;E.P.E. AIGUES I SANEJAMENT DE SUECA               ;;0;0;0;0
+1157;REBULL MARI AMADEO                                ;;0;0;0;0
+1158;SAT 8966-XAIXO HERMANOS                           ;;0;0;0;0
+1159;PROMOCIONES HIJOS DE JOSEFINA TRINIDAD S.L.       ;;0;0;0;0
+1160;GISBERT SIURANA RICARDO                           ;;0;0;0;0
+1161;CDAD. HERMANOS CASESNOVES                         ;;0;0;0;0
+1162;GASTROPAR SL                                      ;;0;0;0;0
+1163;RISOMARCO CATERING S.L.U.                         ;;0;0;0;0
+1164;DIAZ JUAN ESTEBAN                                 ;;0;0;0;0
+1165;CLUB NAUTIC EL PERELLÓ                            ;;0;0;0;0
+1166;GUEMAR CB                                         ;;0;0;0;0
+1167;ALBALAT AGRICOLA SL                               ;;0;0;0;0
+1168;EUROFINS-GAB                                      ;;0;0;0;0
+1169;MARTINEZ HERNANDEZ DARIO                          ;;0;0;0;0
+1170;BERRIALES FERRERA LUIS                            ;;0;0;0;0
+1171;ARRIFANA, S.L.                                    ;;0;0;0;0
+1172;ALEJANDRO SALVADOR CONSTRUCCIONES SL              ;;0;0;0;0
+1173;ORTEGA BERMUDEZ VICENTE                           ;;0;0;0;0
+1174;FRUTAS ANTONIO GIL ..SAT122 CV                    ;;0;0;0;0
+1175;ARCE PUCHADES MANUEL SALVADOR                     ;;0;0;0;0
+1176;SANCHEZ LAZARO DAMASO                             ;;0;0;0;0
+1177;PLASTIDOM                                         ;;0;0;0;0
+1178;BENEDITO TORMOS ENRIQUE                           ;;0;0;0;0
+1179;DHL EXEL SUPPLY CHAIN SPAIN SLU (GRUPAG)          ;;0;0;0;0
+1180;AGUSTI LORENTE JOSE                               ;;0;0;0;0
+1181;SIMO TORRENT MIGUEL                               ;;0;0;0;0
+1182;ZENALCO S.A.;404;0;0;0;19
+1183;CERDA MIR FRANCISCO JAVIER                        ;;0;0;0;0
+1184;MORENO GARDO ISIDRO                               ;;0;0;0;0
+1185;LOPEZ MEDINA EVA MARIA                            ;;0;0;0;0
+1186;NM ARROSSOS DE QUALITAT S.L.                      ;;0;0;0;0
+1187;SIFRE PARDO IGNACIO                               ;;0;0;0;0
+1188;BEBINTER                                          ;;0;0;0;0
+1189;ALFONSO GIMENEZ MIGUEL                            ;;0;0;0;0
+1190;RIVES CISCAR JAIME SALVADOR                       ;;0;0;0;0
+1191;MARTI TORRES PASCUAL                              ;;0;0;0;0
+1192;ALQUERIA DE SAN JOSE C.B.                         ;;0;0;0;0
+1193;SAN CANUTO STEVENS ROBERT                         ;;0;0;0;0
+1194;BERMEJO FURIO MANUEL                              ;;0;0;0;0
+1195;JIANGUANG.HU (COMERCIAL WIN LI)                   ;112;0;0;0;0
+1196;FASCINAR S.L.                                     ;;0;0;0;0
+1199;CRUICKSHANK GERLD ALEXANDER                       ;;0;0;0;0
+1200;COMPAÑIA AGRICOLA-INVERSIONES                     ;;0;0;0;0
+1201;GIL RIERA ENRIQUE                                 ;;0;0;0;0
+1202;VITIVINICOLA DE LA POLBA DEL DUC                  ;;0;0;0;0
+1203;CULTIVAR S.A.                                     ;;0;0;0;0
+1204;RED AZUL SA                                       ;;0;0;0;0
+1205;VENDRELL PALACIOS JAVIER                          ;;0;0;0;0
+1206;CLUB NAUTICO EL PERELLO                           ;;0;0;0;0
+1208;CONSTRUCCIONES NICOLAE COMANES                    ;;0;0;0;0
+1209;S.A.T VIU EL CAMP                                 ;;0;0;0;0
+1210;CONSTRUCCIONES AZNAR PLANELLS S.L.                ;;0;0;0;0
+1211;ALTA NATIVE, S.L.                                 ;;0;0;0;0
+1212;AGUSTI GONZALBO MANUEL                            ;;0;0;0;0
+1213;REALES MARIN JUSTO                                ;;0;0;0;0
+1214;BACHA S.A.                                        ;;0;0;0;0
+1215;BALCAN HOUSE                                      ;;0;0;0;0
+1216;AIGUES I SANEJAMENT DE SUECA                      ;;0;0;0;0
+1217;COFRUMARK Q.D.F.SL                                ;180;0;0;0;0
+1218;MONCAPAL                                          ;;0;0;0;0
+1219;CEROZFRUCHT S.R.O.                                ;119;0;110;0;0
+1220;SAT MUCEVAL ARROCES Y CITRICOS                    ;;0;0;0;0
+1221;AROMAS DE L'HORTA S.L.                            ;;0;0;0;0
+1222;GRUP DE TREBALL SOCIAL RED. 21                    ;;0;0;0;0
+1223;OLIVER CORTINA FEDERICO                           ;;0;0;0;0
+1224;NOEMA RESTAURADORES                               ;;0;0;0;0
+1225;CABERO GALVAN ANGEL                               ;;0;0;0;0
+1226;REBULL MENDEZ CONRADO                             ;;0;0;0;0
+1227;TECNISET C.B.                                     ;;0;0;0;0
+1228;FRUTAS IRU S.A.                                   ;;0;0;0;0
+1229;CARNES ARANDA E HIJAS S.L.                        ;;0;0;0;0
+1230;FOS LOPEZ VICENT                                  ;;0;0;0;0
+1231;GARCIA CEBRIAN RAFAEL                             ;;0;0;0;0
+1232;SALVADOR PIQUERES S.L.                            ;;0;0;0;0
+1233;ACAPULCO 2 CB                                     ;;0;0;0;0
+1234;ENRIQUE LANZ VAZQUEZ (RTE.LA PISCINA)             ;;0;0;0;0
+1235;AGROPONS S.L.;671;0;0;0;0
+1236;MIGUEL VALLES LIMIÑANA                            ;;0;0;0;0
+1237;R.C.GRANDE S.L.                                   ;;0;0;0;0
+1239;FRUTAS ROVI S.L.                                  ;;0;0;0;0
+1240;RICARDO DOMINGO PALACIOS                          ;;0;0;0;0
+1241;INVERSIONES PUCHGAR S.L.                          ;;0;0;0;0
+1242;REFORMAS Y CONST. DE LA RIBERA, S.L.              ;;0;0;0;0
+1243;FERRER GARCIA VICENTE                             ;;0;0;0;0
+1244;CAMPING SAN PASCUAL S.L.                          ;;0;0;0;0
+1245;GRUPO MARSA REVESTIMIENTOS S.L.                   ;;0;0;0;0
+1246;RIBES MAYO ASCENSION                              ;;0;0;0;0
+1247;MARYCARDO 2008 SL                                 ;;0;0;0;0
+1248;COOP.V.VEGA HORTA NORD                            ;;0;0;0;0
+1249;NARANCHOCO S.L.                                   ;;0;0;0;0
+1250;ORIHUELA FERNANDEZ EDUARDO                        ;;0;0;0;0
+1251;HUNG FAT TRADING ASIEN LIVS AB                    ;;0;0;0;0
+1252;DEL CERRO SEGURA S.L.;602;0;0;0;0
+1253;AGRICOLA RIDO SCLV                                ;;0;0;0;0
+1255;VISSER ASIAN CROP B.V.                            ;;0;0;0;0
+1256;RUIZ ZOMERO YOLANDA                               ;;0;0;0;0
+1257;MARIAN TRAIAN BLAGA                               ;;0;0;0;0
+1258;AGRICOM, S.L.                                     ;;0;0;0;0
+1260;RIBERART,PINTURA I DECORACIO CB                   ;;0;0;0;0
+1261;BALLESTER GISBERT PASCUAL                         ;;0;0;0;0
+1262;MOMPO GRANELL SALVADOR                            ;;0;0;0;0
+1263;S.A.S SATAR                                       ;;0;0;0;0
+1264;COPYMAT SUECA S.L.                                ;;0;0;0;0
+1265;SERRANO SOLER  JUAN VICENTE                       ;;0;0;0;0
+1266;LEY RTE.RESTAURACION CONSERVACION SC              ;;0;0;0;0
+1267;MERCE.V.ELECTROMEDICINA S.L.                      ;;0;0;0;0
+1268;ROIG ALFONSO VICENTE                              ;;0;0;0;0
+1269;CAMPING PARK S.L.                                 ;;0;0;0;0
+1270;GIMENO MONTELL FRANCISCO                          ;;0;0;0;0
+1271;FRANCISCO GIL GIMENO (ACEQUIA ARENA)              ;;0;0;0;0
+1272;AGROPECHUAN, S.L.                                 ;;0;0;0;0
+1273;CLIENTE Nº129999                                  ;;0;0;0;0
+1274;CLIENTE Nº30000                                   ;;0;0;0;0
+1275;LLOPIS GRAU LUIS                                  ;;0;0;0;0
+1276;COMUNIDAD REGANTES DE SUECA                       ;;0;0;0;0
+1278;TRAVER SANCHIS S..L.                              ;;0;0;0;0
+1279;MANTENIMIENTO DE INF.EL PERELLO SL                ;;0;0;0;0
+1280;SYNGENTA AGRO S.A.                                ;;0;0;0;0
+1281;ANECOOP S.COOP                                    ;;0;0;0;0
+1282;COLLADO FORNES PAULA                              ;;0;0;0;0
+1283;AGRICOLA SANT ISIDRE MELIANA CV                   ;374;0;0;0;0
+1284;AGROFRUTIC.DEL VALLE DEL EBRO S.L.                ;;0;0;0;0
+1286;AHORRAMAS, S.A.;407;0;0;0;0
+1287;SEIFRU S.L.                                       ;;0;0;0;0
+1288;INDUSR.ALIMENTICIAS INIESTA S.L.                  ;;0;0;0;0
+1289;EMBUTIDOS DEL CENTRO S.A.;;0;0;0;0
+1290;CAMPOS S.L.                                       ;;0;0;0;0
+1292;COLOMAR SOLER AGUSTIN                             ;;0;0;0;0
+1293;MARTINEZ SERRANO VICENTE                          ;;0;0;0;0
+1294;LAMFRES,S.L.                                      ;;0;0;0;0
+1295;FRUTERIA CHEN YU                                  ;;0;0;0;0
+1296;URBANIZACION ULISES                               ;;0;0;0;0
+1297;COMERCIAL WIN LI-AI RONG HU                       ;190;0;0;0;0
+1298;SAT LLAURANT LA LLUNA                             ;;0;0;0;0
+1299;UNIVERSO ORGANIC S.L.                             ;;0;0;0;0
+1300;INVESTIG. Y  APLI.BIOTECNOLOGICAS S.L.            ;;0;0;0;0
+1301;FOS BALLESTER JAVIER                              ;;0;0;0;0
+1302;BAU NAVARRO GEMA DOLORES                          ;;0;0;0;0
+1303;PONS ARNAU DAVID                                  ;;0;0;0;0
+1304;ORTI VALERO ROSA                                  ;;0;0;0;0
+1305;U.T.E.FILTRO VERDE SUECA                          ;;0;0;0;0
+1306;AGROMEDITERRANEA HORTOFRUTICOLA SL                ;;0;0;0;0
+1307;L'HORTA CONSORCIO COOPERATIVO COOP.V.             ;9000;0;0;0;0
+1308;MAXIM GHEORGHE                                    ;;0;0;0;0
+1309;RECERCA AGRIC.SYNTECH RESEARCH SPAIN SL           ;;0;0;0;0
+1310;NATURAL DE MONTAÑA SL                             ;698;0;0;0;0
+1311;XIAOS HUANG PAN                                   ;;0;0;0;0
+1312;CLIENTE Nº40998                                   ;;0;0;0;0
+1313;CLIENTE Nº41105                                   ;;0;0;0;0
+1314;CLIENTE Nº41137                                   ;;0;0;0;0
+1315;CLIENTE Nº41303                                   ;;0;0;0;0
+1316;CLIENTE Nº41018                                   ;;0;0;0;0
+1317;CLIENTE Nº41225                                   ;;0;0;0;0
+1318;CLIENTE Nº40903                                   ;;0;0;0;0
+1319;CLIENTE Nº41093                                   ;;0;0;0;0
+1320;CLIENTE Nº40999                                   ;;0;0;0;0
+1321;MERCAGRISA;487;0;0;0;0
+1322;AGRIMESA;488;0;0;0;0
+1324;VERDURAS CURRO;406;0;0;0;0
+1325;VALSUR;115;0;0;0;0
+1327;JOSE LUIS APARICIO;477;0;0;0;0
+1328;AGRUPA ALMAYATE;475;0;0;0;0
+1329;FRUTAS GARCES;684;0;0;0;0
+1330;PIGOMAR;435;0;0;0;0
+1331;RAMAFRUT;345;0;0;0;0
+1332;BONNYSSA;341;0;0;0;0
+1333;TTES. FRUTAS Y VERDURAS ENCINAS RUIZ, S.L.;338;0;0;0;0
+1334;HORTICOLAS DE MAZARRON;337;0;0;0;0
+1336;HORTICOLAS DE ZAFARRAYA;198;0;0;0;0
+1337;RAMOS CENTENO FEDERICO;194;0;0;0;0
+1339;JOSE ORTEGA;;0;0;0;0
+1340;MARI CARMEN PORTALES;;0;0;0;0
+1341;COOP.-ESCANDALL;998;0;0;0;0
+1342;SABECO ZARAGOZA;500;0;0;18;0
+1343;MERCADO ABRANTES, S.L.;191;0;0;0;0
+1344;FRUTAS OLMOS, S.L.;700;0;0;0;0
+1345;ELISA JUAN CORTES;663;0;0;0;0
+1346;BERNARDO HIDALGO;253;0;0;0;0
+1347;FTAS. SANCHIS;687;0;0;0;0
+1348;AGRO-ALICANTE;11000;0;0;0;0
+1349;AGROLLANOS;10000;0;0;0;0
+1350;NONG FU;121;0;84;0;10
+1351;ASIAN MARKET;;0;83;0;2
+1352;SUPERMERCADOS DE ZHEN YUAN;129;0;0;0;0
+1353;B.F. FRUTAS;148;0;61;0;4
+1354;TERRA GROUP;149;0;93;0;0
+1355;BANCO DE ALIMENTOS;703;0;0;0;0
+1356;RETIRADA PRODUCTO;1000;0;0;0;0
+1357;LABARTA;;0;0;0;0
+1358;CAÑAR;;0;0;0;0
+1359;AGRUPA.ADRA;;0;0;0;0
+1360;AGRUPAEJIDO;483;0;0;0;0
+1361;ALHONDIGA LA UNION;474;0;0;0;0
+1362;ENRIQUE CODINA;;0;0;0;0
+1363;FEMAGO, S.A.;;0;0;0;0
+1364;LIMASOLE;101;0;17;0;2
+1365;SOCOMO FRANCIA;400;0;0;0;21
+1366;MANUEL ANTONIO PEREZ FERNANDEZ;705;0;107;0;7
+1367;MINH FOOD-MUNCHEN;47B;0;111;0;7
+1368;HOPWELL (MAN FOOD);28C;0;24;0;2
+1369;NATURIA AGROALIMENTARIA;420;0;0;0;0
+1370;CAMAVARRO FRUIT & LOGISTIC, S.L.;601;0;113;0;0
+1371;GIFRUTA;620;0;0;0;0
+1372;TENDA LOCAL GRAU;802;0;0;0;0
+1373;CECOSA HIPERMER.,S.L.;405;0;0;0;0
+1374;RIAZA-AZAIR;430;0;0;0;0
+1375;PONS REDONDO GROUP, S.L.;604;0;130;0;0
+1376;JERONIMO BARRIO S.L.;421;0;0;0;0
+1377;FRUTOS ORTEGA;660;0;0;0;0
+1378;TENDA AVDA. MONTURIOL;806;0;0;0;0
+1379;TENDA DUNAS;807;0;0;0;0
+1380;LIDL SUPERMERC.;410;0;0;0;0
+1381;TENDA MARENY;805;0;0;0;0
+1382;FTAS. LUGO, S.L.;649;0;0;0;0
+1383;STAAY-VAN RIJN BV;80;48;38;11;2
+1384;BIEKRAM;133;139;139;11;2
+1385;FINCA EL SALADAR, C.B.;177;0;0;0;0
+1386;LAMIS-5;621;0;0;0;0
+1387;FTAS. HNOS. MONTES, S.A.;460;0;0;0;0
+1388;VIMER FRUIT 1983, S.L.;461;0;0;0;0
+1389;JUAN FORNES FORNES, S.A.;411;0;0;0;0
+1390;FRUTAS SERRADOR;670;0;0;0;0
+1391;R.C. GRANDE, S.L.;679;0;0;0;0
+1392;COM. DE RESTAURACION MASIA RAMI;653;0;0;0;0
+1393;BANCO DE ALIMENTOS DE VALENCIA;707;0;0;0;0
+1394;ROVI;690;0;0;0;0
+1395;FEITO Y TOYOSA;505;0;0;0;0
+1396;BCO. ALIMENTOS ALBACETE;708;0;0;0;0
+1397;FRUITS NULES, S.L.;507;0;0;0;0
+1398;THE NATURAL HAND, S.L.;508;0;0;0;0
+1399;GUERRERO CASTILLA LEON;509;0;0;0;0
+1400;SAT 544-LA ROQUETA;8888;0;0;0;0
+1401;EURO ASIA FRUIT IMP EXP S.L.;176;0;1014;0;18
+1402;JOVIMER, S.L.;150;0;0;0;0

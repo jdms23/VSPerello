@@ -1,7 +1,7 @@
 CLEAR ALL 
 CLOSE TABLES ALL 
 
-PUBLIC CRLF, oApp, oSkin, pNull, oGestion, oFunciones, pCuantos
+PUBLIC CRLF, oApp, oSkin, pNull, oGestion, oFunciones, pCuantos, oReportPreview
 
 LOCAL oInit 
 

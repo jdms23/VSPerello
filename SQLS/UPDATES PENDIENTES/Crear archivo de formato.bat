@@ -1,0 +1,1 @@
+bcp vs_perello.dbo.emp_clientes format nul -c -x -f D:\emp_clientes.fmt -t , -S S-NUEVO-INNOVA -U vsoft -P innova99

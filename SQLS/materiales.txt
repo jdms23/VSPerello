@@ -1,0 +1,185 @@
+1;CAJA 1 KG                               ;1;65
+2;CAJA 2 kg                               ;2;65
+3;CAJA 3 kg                               ;3;65
+4;A PESO                                  ;0;3
+5;CAJA 4 KG.                              ;4;65
+6;CAJA 5 KG.                              ;5;65
+7;CAJA 6 KG.                              ;6;65
+8;CAJA 7 KG.                              ;7;65
+9;CAJAS 8 KG.                             ;8;65
+10;CAJAS 9 KG.                             ;9;65
+11;CAJAS 10 KG.                            ;10;65
+12;CAJAS 11 KG.                            ;11;65
+13;CAJAS 12 KG.                            ;12;42
+14;CAJAS 13 KG.                            ;13;65
+15;CAJAS 14 KG.                            ;14;65
+16;CAJAS 15 KG.                            ;15;65
+17;CAJAS 16 KG.                            ;16;65
+18;CAJAS 17 KG.                            ;17;65
+19;CAJAS 18 KG.                            ;18;65
+20;CAJAS 19 KG.                            ;19;65
+21;CAJAS 20 KG.                            ;20;28
+22;CAJAS 25 KG.                            ;25;24
+23;CAJA 7.5                                ;27;65
+28;CHEP;30;0
+29;IFCO 6410;30;0
+30;PERDIDO;;0
+31;IFCO 4314;;0
+32;IFCO 6413;;0
+33;PLANCHETA;;0
+34;CARTÓN 60-40-14;;0
+35;CARTÓN 60-40-10;;0
+36;EUROPOOL 106;;0
+37;EUROPOOL 164;;0
+38;IFCO 6420;;0
+39;IFCO 6424;;0
+40;EURO;;0
+41;EURO BLANCO;;0
+42;STECO 6410;;255
+43;STECO 6413;;255
+48;PALET 5;905;0
+49;PALET 6;906;0
+50;PALET 7;907;0
+51;PALET 8;908;0
+52;PALET 9;909;0
+53;CAJON 1;801;255
+54;CAJON 2;802;255
+55;CAJON 3;803;255
+56;CAJON 4;804;255
+57;CAJON 5;805;255
+61;CAJA 27;809;255
+62;CAJA 1 KG                               ;1;65
+63;CAJA 2 kg                               ;2;65
+64;CAJA 3 kg                               ;3;65
+65;A PESO                                  ;0;0
+66;CAJA 4 KG.                              ;4;65
+67;CAJA 5 KG.                              ;5;65
+68;CAJA 6 KG.                              ;6;65
+69;CAJA 7 KG.                              ;7;65
+70;CAJAS 8 KG.                             ;8;65
+71;CAJAS 9 KG.                             ;9;65
+72;CAJAS 10 KG.                            ;10;65
+73;CAJAS 11 KG.                            ;11;65
+74;CAJAS 12 KG.                            ;12;42
+75;CAJAS 13 KG.                            ;13;65
+76;CAJAS 14 KG.                            ;14;65
+77;CAJAS 15 KG.                            ;15;65
+78;CAJAS 16 KG.                            ;16;65
+79;CAJAS 17 KG.                            ;17;65
+80;CAJAS 18 KG.                            ;18;65
+81;CAJAS 19 KG.                            ;19;65
+82;CAJAS 20 KG.                            ;20;28
+83;CAJAS 25 KG.                            ;25;24
+84;CAJA 7,5                                ;27;65
+85;CAJA 7,75                               ;28;65
+88;CAJA 9,5 KG.                            ;31;65
+89;CAJA 10,5 KG.                           ;32;65
+90;CAJAS 8,5 KG;30;65
+91;Udes 14 Udes;;0
+92;Udes 10 Udes;;0
+93;CAJA 1 KG                               ;1;0
+94;CAJA 2 kg                               ;2;0
+95;CAJA 3 kg                               ;3;0
+96;A PESO                                  ;0;0
+97;CAJA 4 KG.                              ;4;0
+98;CAJA 5 KG.                              ;5;0
+99;CAJA 6 KG.                              ;6;0
+100;CAJA 7 KG.                              ;7;0
+101;CAJAS 8 KG.                             ;8;0
+102;CAJAS 9 KG.                             ;9;0
+103;CAJAS 10 KG.                            ;10;0
+104;CAJAS 11 KG.                            ;11;0
+105;CAJAS 12 KG.                            ;12;0
+106;CAJAS 13 KG.                            ;13;0
+107;CAJAS 14 KG.                            ;14;0
+108;CAJAS 15 KG.                            ;15;0
+109;CAJAS 16 KG.                            ;16;0
+110;CAJAS 17 KG.                            ;17;0
+111;CAJAS 18 KG.                            ;18;0
+112;CAJAS 19 KG.                            ;19;0
+113;CAJAS 20 KG.                            ;20;0
+114;CAJAS 25 KG.                            ;25;0
+115;CAJA 7,5                                ;27;0
+116;CAJA 7,75                               ;28;0
+117;CAJA 6,5 K                              ;29;0
+118;CAJA  8,5 KG.                           ;30;0
+119;CAJA 9,5 KG.                            ;31;0
+120;CAJA 10,5 KG.                           ;32;0
+121;IFCO 6416;36;0
+122;IFCO 6417;37;0
+123;STECO 6417;38;0
+124;PLANCHETA ;33;0
+125;MADERA GRANDE;34;0
+126;CAJON ;35;0
+127;MADERA PEQUEÑA 50x28x9,5;39;0
+128;CARTON 60X40X9,5;40;0
+129;CARTON 60X40X12;41;0
+130;CARTON 60X40X22;42;0
+131;PALET CHEP GRANDE 100X120;43;0
+132;PALET EURO CHEP 80X120;44;0
+133;PALET PERDIDO 100X120;45;0
+134;PALET PATATERO;46;0
+135;PALET AZUL PINCHOS JOVI;47;0
+136;PALET EURO BLANCO 80X120;48;0
+137;BOX;49;0
+138;CAJAS AMARILLAS COOP. PERELLÓ;0;255
+139;PALET PERDIDO;;0
+140;PALET 1;901;0
+141;PALET 2;902;0
+142;PALET 3;903;0
+143;PALET 4;904;0
+144;PALET 5;905;0
+145;PALET 6;906;0
+146;PALET 7;907;0
+147;PALET 8;908;0
+148;PALET 9;909;0
+149;CAJON 6;806;0
+150;CAJON 7;807;0
+151;CAJON 8;808;0
+152;CAJA VERDE LOGIFRUIT;;0
+153;CAJA 36 KG. ;28;250
+154;CAJA 1 KG                               ;1;0
+155;CAJA 2 kg                               ;2;0
+156;CAJA 3 kg                               ;3;0
+157;A PESO                                  ;0;0
+158;CAJA 4 KG.                              ;4;0
+159;CAJA 5 KG.                              ;5;0
+160;CAJA 6 KG.                              ;6;0
+161;CAJA 7 KG.                              ;7;0
+162;CAJAS 8 KG.                             ;8;0
+163;CAJAS 27 KG.                            ;9;0
+164;CAJAS 10 KG.                            ;10;0
+165;CAJAS 11 KG.                            ;11;0
+166;CAJAS 12 KG.                            ;12;0
+167;CAJAS 13 KG.                            ;13;0
+168;CAJAS 14 KG.                            ;14;0
+169;CAJAS 15 KG.                            ;15;0
+170;CAJAS 16 KG.                            ;16;0
+171;CAJAS 17 KG.                            ;17;0
+172;CAJAS 18 KG.                            ;18;0
+173;CAJAS 19 KG.                            ;19;0
+174;CAJAS 20 KG.                            ;20;0
+175;CAJAS 25 KG.                            ;25;0
+176;CAJA 7,5                                ;27;0
+177;CAJA 27                                 ;28;0
+178;CAJA 36                                 ;29;0
+179;CAJA  8,5 KG.                           ;30;0
+180;CAJA 9,5 KG.                            ;31;0
+181;CAJA 10,5 KG.                           ;32;0
+182;PLANCHETA                               ;33;0
+183;MADERA GRANDE                           ;34;0
+184;CAJON                                   ;35;0
+185;IFCO 6416                               ;36;0
+186;IFCO 6417                               ;37;0
+187;STECO 6417                              ;38;0
+188;MADERA PEQUEÑA                          ;39;0
+189;CARTON 60X40X9,5                        ;40;0
+190;CARTON 60X40X12                         ;41;0
+191;CARTON 60X40X22                         ;42;0
+192;PALET CHEP 100X120                      ;43;0
+193;PALET CHEP 80X120                       ;44;0
+194;PALET PERDIDO                           ;45;0
+195;PALET PATATERO                          ;46;0
+196;PALET AZUL                              ;47;0
+197;PALET EURO BLANCO                       ;48;0
+198;CAJA 5,5 KG.;60;0
